@@ -1,0 +1,290 @@
+[Album Settings]
+Album Collections=Feiern,Freunde,Kategorie,Natur,Reisen,Urlaub,Verschiedene Einstellungen,Zu erledigen
+Album Path=/home/user/Bilder
+Album Sort Order=0
+Database File Path=/home/user/Bilder
+Default Icon Size=96
+Default Tree Icon Size=22
+Icon Show Comments=true
+Icon Show Date=true
+Icon Show Modification Date=true
+Icon Show Name=false
+Icon Show Overlays=true
+Icon Show Rating=true
+Icon Show Resolution=false
+Icon Show Size=false
+Icon Show Tags=true
+IconView Font=DejaVu Sans,9,-1,0,50,0,0,0,0,0
+Image Group Mode=2
+Image Sort Order=0
+Image Sorting=0
+Item Left Click Action=0
+Item Right Click Action=0
+Preview Load Full Image Size=false
+Rating Filter Condition=0
+Recursive Albums=false
+Recursive Tags=true
+Show Album ToolTips=false
+Show Folder Tree View Items Count=false
+Show Thumbbar=true
+Show ToolTips=false
+Sidebar Title Style=0
+Theme=Standard
+ToolTips Font=DejaVu Sans,9,-1,0,50,0,0,0,0,0
+ToolTips Show Album Caption=true
+ToolTips Show Album Category=true
+ToolTips Show Album Collection=true
+ToolTips Show Album Date=true
+ToolTips Show Album Name=false
+ToolTips Show Album Title=true
+ToolTips Show Comments=true
+ToolTips Show File Date=false
+ToolTips Show File Name=true
+ToolTips Show File Size=false
+ToolTips Show Image Dim=true
+ToolTips Show Image Type=false
+ToolTips Show Photo Date=true
+ToolTips Show Photo Expo=true
+ToolTips Show Photo Flash=false
+ToolTips Show Photo Focal=true
+ToolTips Show Photo Make=true
+ToolTips Show Photo Mode=true
+ToolTips Show Photo WB=false
+ToolTips Show Rating=true
+ToolTips Show Tags=true
+TreeView Font=DejaVu Sans,9,-1,0,50,0,0,0,0,0
+
+[AlbumFolderView Sidebar]
+CurrentIndex=
+Expansion=0
+RestoreChecked=false
+Selection=
+SortColumn=0
+SortOrder=0
+
+[AlbumIconViewFilterSearchTextBar Search Text Tool]
+CaseSensitive=0
+
+[DateFolderView Sidebar]
+CurrentIndex=
+Expansion=
+Selection=
+SortColumn=0
+SortOrder=0
+
+[Digikam Left Sidebar]
+ActiveTab=0
+Minimized=false
+RestoreSize=-1
+
+[Digikam Right Sidebar]
+ActiveTab=0
+Minimized=true
+RestoreSize=-1
+
+[DigikamViewFolderSearchBar Search Text Tool]
+CaseSensitive=0
+
+[DigikamViewSearchSearchBar Search Text Tool]
+CaseSensitive=0
+
+[DigikamViewTagFilterSearchBar Search Text Tool]
+CaseSensitive=0
+
+[DigikamViewTagFilterView]
+CurrentIndex=
+Expansion=
+RestoreChecked=false
+Selection=
+SortColumn=0
+SortOrder=0
+Toggle Auto Tags=0
+
+[DigikamViewTagSearchBar Search Text Tool]
+CaseSensitive=0
+
+[EXIF Settings]
+EXIF Rotate=true
+EXIF Set Orientation=true
+
+[Fuzzy Search Sidebar]
+CurrentIndex=
+Expansion=
+FuzzySearch Tab=1
+Pen Sketch Hue=0
+Pen Sketch Saturation=0
+Pen Sketch Size=10
+Pen Sketch Value=255
+RestoreChecked=false
+Result Sketch items=10
+Selection=
+Similars Threshold=90
+SortColumn=0
+SortOrder=0
+
+[FuzzySearchViewSearchFuzzyBar Search Text Tool]
+CaseSensitive=0
+
+[GPS Search Sidebar]
+CurrentIndex=
+Expansion=
+Latitude=54.8
+Longitude=-9.4
+Map Theme=0
+Preview grouped images=false
+Preview single images=true
+RestoreChecked=false
+Selection=
+Show highest rated first=true
+Show numbers=true
+Show oldest first=false
+SortColumn=0
+SortOrder=0
+SplitterState=AAAA/wAAAAAAAAAC//////////8BAAAAAwEAAAAC
+Zoom Level=899
+
+[GPSSearchViewSearchGPSBar Search Text Tool]
+CaseSensitive=0
+
+[General Settings]
+Height 600=601
+Height 768=769
+Height 800=801
+Height 864=865
+Height 900=901
+Height 1024=1025
+Height 1050=1051
+Height 1200=1201
+Width 800=801
+Width 1024=1025
+Width 1152=1153
+Width 1280=1281
+Width 1360=1361
+Width 1366=1367
+Width 1400=1401
+Width 1440=1441
+Width 1600=1601
+Width 1680=1681
+Width 1920=1921
+Apply Sidebar Changes Directly=false
+Scan At Start=true
+Show Permanent Delete Dialog=true
+Show Splash=true
+Show Trash Delete Dialog=true
+State=AAAA/wAAAAD9AAAAAAAABVYAAAJvAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+String Comparison Type=0
+ToolBarsMovable=Disabled
+Use Trash=true
+Version=1.2.0
+
+[HTML Settings]
+AutomaticDetectionLanguage=1
+
+[Image Properties SideBar]
+Current EXIF Item=
+Current ICC Item=
+Current IPTC Item=
+Current MAKERNOTE Item=
+Current XMP Item=
+EXIF Level=0
+Histogram Channel=0
+Histogram Rendering=0
+Histogram Scale=1
+ICC Level=0
+IPTC Level=0
+ImageDescEditTab SearchBarCaseSensitive=0
+ImageDescEditTab Tab=0
+ImageDescEditTab TagCheckViewCurrentIndex=
+ImageDescEditTab TagCheckViewExpansion=0
+ImageDescEditTab TagCheckViewRestoreChecked=false
+ImageDescEditTab TagCheckViewSelection=
+ImageDescEditTab TagCheckViewSortColumn=0
+ImageDescEditTab TagCheckViewSortOrder=0
+ImageDescEditTab TagCheckViewToggle Auto Tags=0
+ImagePropertiesColors Tab=0
+ImagePropertiesMetaData Tab=0
+Latitude=54.8
+Longitude=-9.4
+MAKERNOTE Level=0
+Map Theme=0
+Preview grouped images=false
+Preview single images=true
+Show highest rated first=true
+Show numbers=true
+Show oldest first=false
+XMP Level=0
+Zoom Level=899
+
+[Image Properties SideBar Expander]
+FileProperties Expanded=true
+ImageProperties Expanded=true
+PhotographProperties Expanded=true
+
+[ImageDescEditTab Expander]
+Contact Expanded=true
+Location Expanded=true
+Rights Expanded=true
+Subjects Expanded=true
+
+[ImageDescEditTabNewTagEdit Search Text Tool]
+CaseSensitive=0
+
+[ImageViewer Settings]
+UseRawImportTool=false
+
+[LightTable Settings]
+Load Full Image size=false
+
+[MainWindow]
+InitialAlbumID=0
+SplitterState=AAAA/wAAAAAAAAADAAABLgAAAYb/////AQAAAAMAAAAAAQ==
+ThumbbarState=AAAA/wAAAAD9AAAAAQAAAAIAAAAAAAAAAPwBAAAAAfsAAAAmAG0AYQBpAG4AdwBpAG4AZABvAHcAXwB0AGgAdQBtAGIAYgBhAHIAAAAAAP////8AAABOAQAABQAAAuEAAAJvAAAABAAAAAQAAAAIAAAACPwAAAAA
+
+[Metadata Settings]
+Save Date Time=false
+Save EXIF Comments=false
+Save Rating=false
+Save Tags=false
+Save Template=false
+Update File Timestamp=false
+Write RAW Files=false
+
+[Search Sidebar]
+CurrentIndex=
+Expansion=
+RestoreChecked=false
+Selection=
+SortColumn=0
+SortOrder=0
+
+[SearchBar Search Text Tool]
+CaseSensitive=0
+
+[TagFilter Sidebar]
+Matching Condition=0
+Show Untagged=false
+
+[TagView Sidebar]
+CurrentIndex=
+Expansion=0
+RestoreChecked=false
+Selection=
+SortColumn=0
+SortOrder=0
+
+[TimeLine Sidebar]
+CurrentIndex=
+Cursor Position=2010,12,1,0,0,0
+Expansion=
+Histogram Scale=0
+Histogram TimeUnit=2
+RestoreChecked=false
+Selection=
+SortColumn=0
+SortOrder=0
+
+[TimeLineViewSearchDateBar Search Text Tool]
+CaseSensitive=0
+
+[TipOfDay]
+RunOnStart=false

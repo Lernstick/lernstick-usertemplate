@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<state xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="state.xsd">
+
+  <properties>
+    <property key="UserName" value=""/>
+    <property key="CurrentGroup" value="Enigma"/>
+    <property key="NextLevelMode" value="0"/>
+    <property key="Difficulty" value="1"/>
+    <property key="RatingsUpdateTime" value="2006-03-31T20:20:00Z"/>
+    <property key="SoundSetName" value="Default"/>
+    <property key="UserId" value="2B42D2430F16F617"/>
+    <property key="Count" value="6"/>
+  </properties>
+
+  <groups>
+    <group curcolumn="0" curindex="Tutorial" title="Enigma"/>
+    <group curcolumn="0" curindex="" title="Déjà-vu"/>
+    <group curcolumn="0" curindex="" title="Sokoban"/>
+    <group curcolumn="0" curindex="" title="Facets"/>
+    <group curcolumn="0" curindex="" title="User"/>
+    <group curcolumn="0" curindex="" title="Development"/>
+    <group curcolumn="0" curindex="Tutorial" title="All Packs"/>
+  </groups>
+
+  <indices>
+    <index curfirst="0" curposition="0" group="" location="0" title="Tutorial"/>
+    <index curfirst="0" curposition="0" group="" location="0" title="Esprit"/>
+    <index curfirst="0" curposition="0" group="" location="0" title="Experimental"/>
+    <index curfirst="0" curposition="0" group="" location="0" title="Enigma I"/>
+    <index curfirst="0" curposition="0" group="" location="0" title="Enigma II"/>
+    <index curfirst="0" curposition="0" group="" location="0" title="Enigma III"/>
+    <index curfirst="0" curposition="0" group="" location="0" title="Enigma IV"/>
+    <index curfirst="0" curposition="0" group="" location="0" title="Mas Microball"/>
+    <index curfirst="0" curposition="0" group="" location="0" title="Microball"/>
+    <index curfirst="0" curposition="0" group="" location="0" title="Oxyd"/>
+    <index curfirst="0" curposition="0" group="" location="0" title="Oxyd Extra"/>
+    <index curfirst="0" curposition="0" group="" location="0" title="Oxyd Magnum"/>
+    <index curfirst="0" curposition="0" group="" location="0" title="PerOxyd"/>
+    <index curfirst="0" curposition="0" group="" location="0" title="Sokoball"/>
+    <index curfirst="0" curposition="0" group="" location="0" title="Enigma V"/>
+    <index curfirst="0" curposition="0" group="" location="0" title="Enigma VI"/>
+    <index curfirst="0" curposition="0" group="" location="0" title="Enigma VII"/>
+    <index curfirst="0" curposition="0" group="" location="0" title="Enigma 0.92 - 1"/>
+    <index curfirst="0" curposition="0" group="" location="0" title="Enigma 0.92 - 2"/>
+    <index curfirst="0" curposition="0" group="" location="0" title="Enigma 0.92 - 3"/>
+    <index curfirst="0" curposition="0" group="" location="0" title="Enigma 1.00 new"/>
+    <index curfirst="0" curposition="0" group="" location="0" title="Enigma 1.01 new"/>
+    <index curfirst="0" curposition="0" group="" location="0" title="Auto Folder"/>
+    <index curfirst="0" curposition="0" group="" location="0" title="History"/>
+    <index curfirst="0" curposition="0" group="" location="0" title="Search Result"/>
+  </indices>
+
+  <levels/>
+
+</state>

@@ -1,0 +1,133 @@
+(supertux-config
+  (show_fps #f)
+  (console #f)
+  (locale "")
+  (video
+    (fullscreen #t)
+    (video "auto")
+    (vsync #t)
+    (fullscreen_width 800)
+    (fullscreen_height 600)
+    (window_width 800)
+    (window_height 600)
+    (aspect_width 0)
+    (aspect_height 0)
+    (magnification 0)
+  )
+  (audio
+    (sound_enabled #t)
+    (music_enabled #t)
+  )
+  (control
+    (keymap
+      (jump-with-up #f)
+      (map
+        (key 13)
+        (control "menu-select")
+      )
+      (map
+        (key 19)
+        (control "pause-menu")
+      )
+      (map
+        (key 27)
+        (control "pause-menu")
+      )
+      (map
+        (key 32)
+        (control "jump")
+      )
+      (map
+        (key 94)
+        (control "console")
+      )
+      (map
+        (key 112)
+        (control "pause-menu")
+      )
+      (map
+        (key 127)
+        (control "peek-left")
+      )
+      (map
+        (key 271)
+        (control "menu-select")
+      )
+      (map
+        (key 273)
+        (control "up")
+      )
+      (map
+        (key 274)
+        (control "down")
+      )
+      (map
+        (key 275)
+        (control "right")
+      )
+      (map
+        (key 276)
+        (control "left")
+      )
+      (map
+        (key 278)
+        (control "peek-up")
+      )
+      (map
+        (key 279)
+        (control "peek-down")
+      )
+      (map
+        (key 281)
+        (control "peek-right")
+      )
+      (map
+        (key 306)
+        (control "action")
+      )
+      (map
+        (key 308)
+        (control "action")
+      )
+    )
+    (joystick
+      (dead-zone 1000)
+      (jump-with-up #f)
+      (map
+        (button 0)
+        (control "jump")
+      )
+      (map
+        (button 1)
+        (control "action")
+      )
+      (map
+        (button 3)
+        (control "menu-select")
+      )
+      (map
+        (button 4)
+        (control "pause-menu")
+      )
+      (map
+        (axis -2)
+        (control "up")
+      )
+      (map
+        (axis -1)
+        (control "left")
+      )
+      (map
+        (axis 1)
+        (control "right")
+      )
+      (map
+        (axis 2)
+        (control "down")
+      )
+    )
+  )
+  (addons
+    (disabled-addons)
+  )
+)

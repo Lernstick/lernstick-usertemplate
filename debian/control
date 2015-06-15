@@ -1,0 +1,15 @@
+Source: lernstick-usertemplate
+Section: misc
+Priority: extra
+Maintainer: Ronny Standtke <ronny.standtke@fhnw.ch>
+Build-Depends: debhelper (>= 7)
+Standards-Version: 3.7.3
+Homepage: http://www.imedias.ch/lernstick
+
+Package: lernstick-usertemplate
+Architecture: all
+Depends: ${shlibs:Depends}, ${misc:Depends}, lernstickwelcome, dlcopy
+Description: A template for the lernstick user
+ A set of (mostly configuration) files under /etc/skel that are used when
+ creating the lernstick user the first time and some other files in /usr
+ that are needed by this template.

@@ -1,0 +1,10 @@
+AVCheck=0
+OpenDNS=1
+GUICheck=1
+TruncateLog=1
+SaveToLog=1
+Thorough=1
+ScanHidden=1
+Mounted=1
+Recursive=1
+SizeLimit=1

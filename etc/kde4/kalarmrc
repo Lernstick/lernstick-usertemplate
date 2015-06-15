@@ -1,0 +1,26 @@
+[MainWindow]
+Height 600=290
+Height 768=290
+Height 800=290
+Height 864=290
+Height 900=290
+Height 1024=290
+Height 1050=290
+Height 1200=290
+Width 800=783
+Width 1024=783
+Width 1152=783
+Width 1280=783
+Width 1360=783
+Width 1366=783
+Width 1400=783
+Width 1440=783
+Width 1600=783
+Width 1680=783
+Width 1920=783
+
+[MainWindow][Toolbar mainToolBar]
+ToolButtonStyle=IconOnly
+
+[General]
+AutoStart=false
