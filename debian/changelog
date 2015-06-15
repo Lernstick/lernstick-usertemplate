@@ -1,3 +1,11 @@
+lernstick-usertemplate (4) lernstick-8; urgency=medium
+
+  * [9241] added etc/skel/.bashrc
+  * [f75d] updated kickoffrc
+  * [e865] removed deprecated blender preferences
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Mon, 15 Jun 2015 17:34:24 +0200
+
 lernstick-usertemplate (3) lernstick-8; urgency=medium
 
   * [5d9f] added .gitignore file
