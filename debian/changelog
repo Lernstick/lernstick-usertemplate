@@ -1,3 +1,10 @@
+lernstick-usertemplate (6) lernstick-8; urgency=medium
+
+  * [9326] use "Lines" (Debian 8 default) instead of "Joy" (Debian 7 default) as KDE wallpaper
+  * [a7dd] removed etc/skel/.bashrc (it is also in package bash)
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Mon, 15 Jun 2015 18:59:52 +0200
+
 lernstick-usertemplate (5) lernstick-8; urgency=medium
 
   * [15e8] added lernstick html and png files
