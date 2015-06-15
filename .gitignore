@@ -1,0 +1,5 @@
+configure-stamp
+debian/files
+debian/lernstick-usertemplate.debhelper.log
+debian/lernstick-usertemplate.substvars
+debian/lernstick-usertemplate/
