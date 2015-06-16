@@ -1,3 +1,9 @@
+lernstick-usertemplate (7) lernstick-8; urgency=medium
+
+  * [af6e] added blender config (hide python tooltips, enable 3D printing toolbox and international fonts)
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Tue, 16 Jun 2015 22:31:34 +0200
+
 lernstick-usertemplate (6) lernstick-8; urgency=medium
 
   * [9326] use "Lines" (Debian 8 default) instead of "Joy" (Debian 7 default) as KDE wallpaper
