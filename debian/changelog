@@ -1,3 +1,9 @@
+lernstick-usertemplate (8) lernstick-8; urgency=low
+
+  * [4cc5] resized KDE networkmanager applet
+
+ -- Debian Live user <user@debian.(none)>  Wed, 17 Jun 2015 16:34:22 +0200
+
 lernstick-usertemplate (7) lernstick-8; urgency=medium
 
   * [af6e] added blender config (hide python tooltips, enable 3D printing toolbox and international fonts)
