@@ -1,3 +1,9 @@
+lernstick-usertemplate (10) lernstick-8; urgency=medium
+
+  * [846c] removed dconf template (no longer needed in newer GNOME)
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Thu, 18 Jun 2015 18:48:34 +0200
+
 lernstick-usertemplate (9) lernstick-8; urgency=medium
 
   * [ce46] moved extremetuxracer options file to new place (changed upstream)
