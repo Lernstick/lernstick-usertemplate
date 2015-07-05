@@ -1,3 +1,9 @@
+lernstick-usertemplate (8) lernstick-8; urgency=medium
+
+  * [6d59] added skeleton files for Enlightenment
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Sun, 05 Jul 2015 22:56:05 +0200
+
 lernstick-usertemplate (7) lernstick-8; urgency=medium
 
   * [af6e] added blender config (hide python tooltips, enable 3D printing toolbox and international fonts)
