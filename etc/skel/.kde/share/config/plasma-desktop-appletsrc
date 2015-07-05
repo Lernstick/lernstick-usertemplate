@@ -130,8 +130,8 @@ plugin=org.kde.networkmanagement
 zvalue=0
 
 [Containments][1][Applets][6][Configuration][Applets][9][PopupApplet]
-DialogHeight=229
-DialogWidth=991
+DialogHeight=306
+DialogWidth=354
 
 [Containments][1][Applets][6][Configuration][Applets][9][Shortcuts]
 global=

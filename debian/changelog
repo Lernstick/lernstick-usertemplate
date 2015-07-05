@@ -1,8 +1,26 @@
-lernstick-usertemplate (8) lernstick-8; urgency=medium
+lernstick-usertemplate (11) lernstick-8; urgency=medium
 
   * [6d59] added skeleton files for Enlightenment
 
  -- Ronny Standtke <ronny.standtke@gmx.net>  Sun, 05 Jul 2015 22:56:05 +0200
+
+lernstick-usertemplate (10) lernstick-8; urgency=medium
+
+  * [846c] removed dconf template (no longer needed in newer GNOME)
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Thu, 18 Jun 2015 18:48:34 +0200
+
+lernstick-usertemplate (9) lernstick-8; urgency=medium
+
+  * [ce46] moved extremetuxracer options file to new place (changed upstream)
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Thu, 18 Jun 2015 14:06:13 +0200
+
+lernstick-usertemplate (8) lernstick-8; urgency=low
+
+  * [4cc5] resized KDE networkmanager applet
+
+ -- Debian Live user <user@debian.(none)>  Wed, 17 Jun 2015 16:34:22 +0200
 
 lernstick-usertemplate (7) lernstick-8; urgency=medium
 
