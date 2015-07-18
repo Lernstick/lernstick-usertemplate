@@ -1,3 +1,9 @@
+lernstick-usertemplate (12) lernstick-8; urgency=medium
+
+  * [e9c387] added gnome app-folders
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Sat, 18 Jul 2015 21:27:31 +0200
+
 lernstick-usertemplate (11) lernstick-8; urgency=medium
 
   * [6d59] added skeleton files for Enlightenment
