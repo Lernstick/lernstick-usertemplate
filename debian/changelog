@@ -1,3 +1,9 @@
+lernstick-usertemplate (14) lernstick-8; urgency=medium
+
+  * [85341a] disabled GNOME screensaver lock
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Sat, 18 Jul 2015 22:33:47 +0200
+
 lernstick-usertemplate (13) lernstick-8; urgency=medium
 
   * [01619f] updated dependencies
