@@ -8,7 +8,7 @@ Homepage: http://www.imedias.ch/lernstick
 
 Package: lernstick-usertemplate
 Architecture: all
-Depends: ${shlibs:Depends}, ${misc:Depends}, lernstickwelcome, dlcopy
+Depends: ${shlibs:Depends}, ${misc:Depends}, dconf-cli
 Description: A template for the lernstick user
  A set of (mostly configuration) files under /etc/skel that are used when
  creating the lernstick user the first time and some other files in /usr
