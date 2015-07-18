@@ -1,3 +1,10 @@
+lernstick-usertemplate (13) lernstick-8; urgency=medium
+
+  * [01619f] updated dependencies
+  * [5a3e94] added postinst script to update dconf database
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Sat, 18 Jul 2015 22:28:22 +0200
+
 lernstick-usertemplate (12) lernstick-8; urgency=medium
 
   * [e9c387] added gnome app-folders
