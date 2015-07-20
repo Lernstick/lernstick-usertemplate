@@ -1,3 +1,9 @@
+lernstick-usertemplate (15) lernstick-8; urgency=medium
+
+  * [afb230] added config for favorite GNOME apps
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Mon, 20 Jul 2015 06:42:40 +0200
+
 lernstick-usertemplate (14) lernstick-8; urgency=medium
 
   * [85341a] disabled GNOME screensaver lock
