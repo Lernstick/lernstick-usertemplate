@@ -1,3 +1,9 @@
+lernstick-usertemplate (16) lernstick-8; urgency=medium
+
+  * [cd7bf5] updated blender user preferences
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Mon, 27 Jul 2015 12:17:11 +0200
+
 lernstick-usertemplate (15) lernstick-8; urgency=medium
 
   * [afb230] added config for favorite GNOME apps
