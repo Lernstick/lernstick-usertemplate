@@ -1,3 +1,9 @@
+lernstick-usertemplate (17) lernstick-8; urgency=medium
+
+  * [44072c] added more gnome tweaks to show more clock and calendar details and more window buttons
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Mon, 27 Jul 2015 18:47:22 +0200
+
 lernstick-usertemplate (16) lernstick-8; urgency=medium
 
   * [cd7bf5] updated blender user preferences
