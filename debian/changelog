@@ -1,3 +1,9 @@
+lernstick-usertemplate (18) lernstick-8; urgency=medium
+
+  * [113e] made gdebi default for deb packages in GNOME (instead of xarchiver)
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Mon, 03 Aug 2015 21:32:11 +0200
+
 lernstick-usertemplate (17) lernstick-8; urgency=medium
 
   * [44072c] added more gnome tweaks to show more clock and calendar details and more window buttons
