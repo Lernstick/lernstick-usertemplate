@@ -1,3 +1,9 @@
+lernstick-usertemplate (19) lernstick-8; urgency=medium
+
+  * [00e353] added gespeaker settings
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Wed, 05 Aug 2015 19:15:43 +0200
+
 lernstick-usertemplate (18) lernstick-8; urgency=medium
 
   * [113e] made gdebi default for deb packages in GNOME (instead of xarchiver)
