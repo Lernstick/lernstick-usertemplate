@@ -1,3 +1,9 @@
+lernstick-usertemplate (20) lernstick-8; urgency=medium
+
+  * [c00e72] enable GNOME extensions gpaste and places
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Sat, 08 Aug 2015 10:12:57 +0200
+
 lernstick-usertemplate (19) lernstick-8; urgency=medium
 
   * [00e353] added gespeaker settings
