@@ -45,7 +45,7 @@ name='Office.directory'
 
 [org/gnome/desktop/app-folders/folders/Development]
 translate=true
-categories=['Development']
+categories=['Development', 'X-Kara']
 name='Development.directory'
 
 [org/gnome/desktop/app-folders/folders/Lernstick]
