@@ -1,3 +1,9 @@
+lernstick-usertemplate (21) lernstick-8; urgency=medium
+
+  * [3e5f21] added 'X-Kara' to gnome app directory 'Development'
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Sat, 08 Aug 2015 11:43:55 +0200
+
 lernstick-usertemplate (20) lernstick-8; urgency=medium
 
   * [c00e72] enable GNOME extensions gpaste and places
