@@ -1,0 +1,2 @@
+[org/gnome/shell]
+enabled-extensions=['GPaste@gnome-shell-extensions.gnome.org', 'places-menu@gnome-shell-extensions.gcampax.github.com']
