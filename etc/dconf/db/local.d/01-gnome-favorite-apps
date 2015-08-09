@@ -1,2 +1,2 @@
 [org/gnome/shell]
-favorite-apps=['iceweasel.desktop', 'icedove.desktop', 'libreoffice-startcenter.desktop', 'gimp.desktop', 'gbrainy.desktop', 'org.gnome.Nautilus.desktop', 'yelp.desktop']
+favorite-apps=['iceweasel.desktop', 'icedove.desktop', 'libreoffice-startcenter.desktop', 'gimp.desktop', 'gbrainy.desktop', 'yelp.desktop']
