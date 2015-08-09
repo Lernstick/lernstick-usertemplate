@@ -1,3 +1,9 @@
+lernstick-usertemplate (22) lernstick-8; urgency=medium
+
+  * [ee730e] removed Nautilus from favorite GNOME apps (reachable via Places extension)
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Sun, 09 Aug 2015 11:29:23 +0200
+
 lernstick-usertemplate (21) lernstick-8; urgency=medium
 
   * [3e5f21] added 'X-Kara' to gnome app directory 'Development'
