@@ -1,3 +1,9 @@
+lernstick-usertemplate (24) lernstick-8; urgency=medium
+
+  * [80d450] fixed xkill shortcut for GNOME
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Tue, 11 Aug 2015 16:16:41 +0200
+
 lernstick-usertemplate (23) lernstick-8; urgency=medium
 
   * [a8e032] added xkill shortcut to GNOME
