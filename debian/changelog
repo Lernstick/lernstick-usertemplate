@@ -1,3 +1,9 @@
+lernstick-usertemplate (23) lernstick-8; urgency=medium
+
+  * [a8e032] added xkill shortcut to GNOME
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Tue, 11 Aug 2015 15:31:59 +0200
+
 lernstick-usertemplate (22) lernstick-8; urgency=medium
 
   * [ee730e] removed Nautilus from favorite GNOME apps (reachable via Places extension)
