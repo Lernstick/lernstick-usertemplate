@@ -1,0 +1,5 @@
+[Default Applications]
+application/x-java-archive=execute-jar.desktop
+
+[Added Associations]
+application/x-java-archive=execute-jar.desktop;
