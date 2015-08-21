@@ -1,3 +1,9 @@
+lernstick-usertemplate (25) lernstick-8; urgency=medium
+
+  * [5d00bc] updated MIME apps config
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Fri, 21 Aug 2015 10:46:54 +0200
+
 lernstick-usertemplate (24) lernstick-8; urgency=medium
 
   * [80d450] fixed xkill shortcut for GNOME
