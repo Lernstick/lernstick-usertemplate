@@ -1,3 +1,9 @@
+lernstick-usertemplate (26) lernstick-8; urgency=medium
+
+  * [de77dd] added gksu config file to hide warning about passwordless sudo
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Sat, 29 Aug 2015 16:20:14 +0200
+
 lernstick-usertemplate (25) lernstick-8; urgency=medium
 
   * [5d00bc] updated MIME apps config
