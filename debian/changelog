@@ -1,3 +1,9 @@
+lernstick-usertemplate (27) lernstick-8; urgency=medium
+
+  * [38c674] added empty gconf xml file (seems to be needed...)
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Sat, 29 Aug 2015 17:13:27 +0200
+
 lernstick-usertemplate (26) lernstick-8; urgency=medium
 
   * [de77dd] added gksu config file to hide warning about passwordless sudo
