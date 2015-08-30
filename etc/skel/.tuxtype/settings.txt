@@ -1,5 +1,0 @@
-lang=deutsch
-mus_volume=100
-sfx_volume=100
-menu_music=1
-fullscreen=1

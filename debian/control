@@ -1,4 +1,4 @@
-Source: lernstick-usertemplate
+Source: lernstick-usertemplate-exam
 Section: misc
 Priority: extra
 Maintainer: Ronny Standtke <ronny.standtke@fhnw.ch>
@@ -6,10 +6,11 @@ Build-Depends: debhelper (>= 7)
 Standards-Version: 3.7.3
 Homepage: http://www.imedias.ch/lernstick
 
-Package: lernstick-usertemplate
+Package: lernstick-usertemplate-exam
+Conflicts: lernstick-usertemplate
 Architecture: all
 Depends: ${shlibs:Depends}, ${misc:Depends}, dconf-cli
-Description: A template for the lernstick user
+Description: A template for the lernstick user of the exam environment
  A set of (mostly configuration) files under /etc/skel that are used when
  creating the lernstick user the first time and some other files in /usr
  that are needed by this template.
