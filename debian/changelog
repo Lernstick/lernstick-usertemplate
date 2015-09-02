@@ -1,3 +1,9 @@
+lernstick-usertemplate-exam (3) lernstick-8; urgency=medium
+
+  * [52bf51] added customized GNOME touchpad config
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Wed, 02 Sep 2015 14:14:58 +0200
+
 lernstick-usertemplate-exam (2) lernstick-8; urgency=medium
 
   * [1683c6] added libreoffice hardening config
