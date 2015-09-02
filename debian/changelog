@@ -1,3 +1,9 @@
+lernstick-usertemplate (28) lernstick-8; urgency=medium
+
+  * [52bf51] added customized GNOME touchpad config
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Wed, 02 Sep 2015 14:11:56 +0200
+
 lernstick-usertemplate (27) lernstick-8; urgency=medium
 
   * [38c674] added empty gconf xml file (seems to be needed...)
