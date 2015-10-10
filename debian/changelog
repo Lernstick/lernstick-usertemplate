@@ -1,3 +1,9 @@
+lernstick-usertemplate-exam (4) lernstick-8; urgency=medium
+
+  * [5682f3] added LibreOffice config to autosave every minute including a backup
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Sat, 10 Oct 2015 14:15:16 +0200
+
 lernstick-usertemplate-exam (3) lernstick-8; urgency=medium
 
   * [52bf51] added customized GNOME touchpad config
