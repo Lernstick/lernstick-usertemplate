@@ -1,3 +1,13 @@
+lernstick-usertemplate (29) lernstick-8; urgency=medium
+
+  [ Gaudenz Steinlin ]
+  * [4449f8] Change default vim background to "light"
+
+  [ Ronny Standtke ]
+  * [7907e5] use 'fullscale' virtual keyboard in GNOME
+
+ -- Gaudenz Steinlin <gaudenz@soziologie.ch>  Wed, 14 Oct 2015 22:33:27 +0200
+
 lernstick-usertemplate (28) lernstick-8; urgency=medium
 
   * [52bf51] added customized GNOME touchpad config
