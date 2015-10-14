@@ -1,3 +1,3 @@
 syntax on
-set background=dark
+set background=light
 set noai
