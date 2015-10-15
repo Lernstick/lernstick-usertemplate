@@ -1,3 +1,4 @@
 [org/gnome/settings-daemon/peripherals/touchpad]
 disable-while-typing=true
+scroll-method='two-finger-scrolling'
 tap-to-click=true
