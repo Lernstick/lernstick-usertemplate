@@ -1,3 +1,10 @@
+lernstick-usertemplate (30) lernstick-8; urgency=medium
+
+  [ Ronny Standtke ]
+  * [f96062] use two-finger-scrolling instead of edge-scrolling per default for touchpads
+
+ -- Ronny Standtke <ronny.standtke@fhnw.ch>  Thu, 15 Oct 2015 17:22:07 +0200
+
 lernstick-usertemplate (29) lernstick-8; urgency=medium
 
   [ Gaudenz Steinlin ]
