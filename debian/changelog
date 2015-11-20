@@ -1,3 +1,11 @@
+lernstick-usertemplate-exam (7) lernstick-8; urgency=medium
+
+  [ Ronny Standtke ]
+  * [8b59f4] set power button action in GNOME to "interactive" instead of default "suspend"
+  * [39c6fc] don't switch off display
+
+ -- Ronny Standtke <ronny.standtke@fhnw.ch>  Fri, 20 Nov 2015 14:53:03 +0100
+
 lernstick-usertemplate-exam (6) lernstick-8; urgency=medium
 
   [ Ronny Standtke ]
