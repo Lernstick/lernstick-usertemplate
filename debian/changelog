@@ -1,3 +1,9 @@
+lernstick-usertemplate-exam (8) lernstick-8; urgency=medium
+
+  * [99ec1d] enabled delete function in nautilus
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Thu, 17 Dec 2015 14:41:07 +0100
+
 lernstick-usertemplate-exam (7) lernstick-8; urgency=medium
 
   [ Ronny Standtke ]
