@@ -1,3 +1,13 @@
+lernstick-usertemplate (33) lernstick-8; urgency=medium
+
+  [ Gaudenz Steinlin ]
+  * [84495f] Replace space in filename
+
+  [ Ronny Standtke ]
+  * [5143f5] enable GNOME shell extension sound-output-device-chooser
+
+ -- Gaudenz Steinlin <gaudenz.steinlin@cirrax.com>  Fri, 08 Jan 2016 13:17:17 +0100
+
 lernstick-usertemplate (32) lernstick-8; urgency=medium
 
   * [99ec1d] enabled delete function in nautilus
