@@ -1,3 +1,9 @@
+lernstick-usertemplate-exam (9) lernstick-8; urgency=medium
+
+  * [d0c4f4] enable GNOME shell extension sound-output-device-chooser
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Fri, 08 Jan 2016 13:10:45 +0100
+
 lernstick-usertemplate-exam (8) lernstick-8; urgency=medium
 
   * [99ec1d] enabled delete function in nautilus
