@@ -1,3 +1,10 @@
+lernstick-usertemplate (35) lernstick-8; urgency=medium
+
+  [ Ronny Standtke ]
+  * [4d5bf1] added dconf setting for automatic timezone detection
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Mon, 18 Jan 2016 19:31:30 +0100
+
 lernstick-usertemplate (34) lernstick-8; urgency=medium
 
   [ Ronny Standtke ]
