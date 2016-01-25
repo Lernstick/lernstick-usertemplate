@@ -3,13 +3,16 @@ Section: misc
 Priority: extra
 Maintainer: Lernstick Team <lernstick.ph@fhnw.ch>
 Uploaders: Ronny Standtke <ronny.standtke@fhnw.ch>, Gaudenz Steinlin <gaudenz@debian.org>
-Build-Depends: debhelper (>= 9)
+Build-Depends: debhelper (>= 9),
+               config-package-dev,
 Standards-Version: 3.7.3
 Homepage: http://www.imedias.ch/lernstick
 
 Package: lernstick-usertemplate
 Architecture: all
 Depends: ${shlibs:Depends}, ${misc:Depends}, dconf-cli
+Provides: ${diverted-files}
+Conflicts: ${diverted-files}
 Description: A template for the lernstick user
  A set of (mostly configuration) files under /etc/skel that are used when
  creating the lernstick user the first time and some other files in /usr
