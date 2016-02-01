@@ -1,3 +1,12 @@
+lernstick-usertemplate (36) lernstick-8-winterthur; urgency=medium
+
+  * [3ad561] Change Maintainer to Lernstick Team
+  * [be2e31] Convert package to dh sequencer
+  * [f960ec] Use config-package-dev to divert conffile
+  * [589005] Displace /etc/skel/.bashrc
+
+ -- Gaudenz Steinlin <gaudenz@debian.org>  Mon, 01 Feb 2016 11:38:00 +0100
+
 lernstick-usertemplate (35) lernstick-8; urgency=medium
 
   [ Ronny Standtke ]
