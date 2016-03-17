@@ -1,3 +1,16 @@
+lernstick-usertemplate (36) lernstick-8; urgency=medium
+
+  [ Gaudenz Steinlin ]
+  * [3ad561] Change Maintainer to Lernstick Team
+  * [be2e31] Convert package to dh sequencer
+  * [8d6adf] Add git-buildpackage config
+  * [64d401] Converte to source format 3.0 (native)
+
+  [ Ronny Standtke ]
+  * [5f5a7d] use tablet layout for virtual keyboard (supported since caribou 0.4.20)
+
+ -- Gaudenz Steinlin <gaudenz.steinlin@cirrax.com>  Thu, 17 Mar 2016 13:47:22 +0100
+
 lernstick-usertemplate (35) lernstick-8; urgency=medium
 
   [ Ronny Standtke ]
