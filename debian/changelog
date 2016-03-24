@@ -1,3 +1,9 @@
+lernstick-usertemplate (39) lernstick-8; urgency=medium
+
+  * [291f7f] use firefox as default browser
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Thu, 24 Mar 2016 19:36:06 +0100
+
 lernstick-usertemplate (38) lernstick-8; urgency=medium
 
   * [4b0a13] replaced iceweasel with firefox
