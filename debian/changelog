@@ -1,3 +1,10 @@
+lernstick-usertemplate (40) lernstick-8; urgency=medium
+
+  [ Ronny Standtke ]
+  * [c938a8] changed config so that nautilus asks what do do with executable text files
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Fri, 25 Mar 2016 23:20:47 +0100
+
 lernstick-usertemplate (39) lernstick-8; urgency=medium
 
   * [291f7f] use firefox as default browser
