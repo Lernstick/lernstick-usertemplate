@@ -1,2 +1,3 @@
 [org/gnome/nautilus/preferences]
+executable-text-activation='ask'
 enable-delete=true
