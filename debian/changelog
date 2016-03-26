@@ -1,3 +1,10 @@
+lernstick-usertemplate (41) lernstick-8; urgency=medium
+
+  [ Ronny Standtke ]
+  * [c1e486] switch from iceweasel to firefox also on KDE, XFCE and Enlightenment
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Sat, 26 Mar 2016 16:54:58 +0100
+
 lernstick-usertemplate (40) lernstick-8; urgency=medium
 
   [ Ronny Standtke ]
