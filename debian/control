@@ -1,8 +1,9 @@
 Source: lernstick-usertemplate-exam
 Section: misc
 Priority: extra
-Maintainer: Ronny Standtke <ronny.standtke@fhnw.ch>
-Build-Depends: debhelper (>= 7)
+Maintainer: Lernstick Team <lernstick.ph@fhnw.ch>
+Uploaders: Ronny Standtke <ronny.standtke@fhnw.ch>, Gaudenz Steinlin <gaudenz@debian.org>
+Build-Depends: debhelper (>= 9)
 Standards-Version: 3.7.3
 Homepage: http://www.imedias.ch/lernstick
 
