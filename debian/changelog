@@ -1,3 +1,24 @@
+lernstick-usertemplate-exam (11) lernstick-8; urgency=medium
+
+  [ Ronny Standtke ]
+  * [4d5bf1] added dconf setting for automatic timezone detection
+
+  [ Gaudenz Steinlin ]
+  * [3ad561] Change Maintainer to Lernstick Team
+  * [be2e31] Convert package to dh sequencer
+  * [8d6adf] Add git-buildpackage config
+  * [64d401] Converte to source format 3.0 (native)
+
+  [ Ronny Standtke ]
+  * [5f5a7d] use tablet layout for virtual keyboard (supported since caribou 0.4.20)
+  * [4b0a13] replaced iceweasel with firefox
+  * [291f7f] use firefox as default browser
+  * [c938a8] changed config so that nautilus asks what do do with executable text files
+  * [c1e486] switch from iceweasel to firefox also on KDE, XFCE and Enlightenment
+  * [44f508] disable lock screen in GNOME
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Sun, 27 Mar 2016 13:38:22 +0200
+
 lernstick-usertemplate-exam (10) lernstick-8; urgency=medium
 
   * [6fb8c6] removed screensaver keybinding in GNOME
