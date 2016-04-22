@@ -1,3 +1,9 @@
+lernstick-usertemplate (42) lernstick-8; urgency=medium
+
+  * [3534a0] allow akonadi to start (some applications, e.g. KNotes, don't work without it)
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Fri, 22 Apr 2016 14:31:11 +0200
+
 lernstick-usertemplate (41) lernstick-8; urgency=medium
 
   [ Ronny Standtke ]
