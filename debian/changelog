@@ -1,3 +1,9 @@
+lernstick-usertemplate (43) lernstick-8; urgency=medium
+
+  * [9cae78] updated mime config (wine as default for exe files)
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Fri, 08 Jul 2016 14:20:31 +0200
+
 lernstick-usertemplate (42) lernstick-8; urgency=medium
 
   * [3534a0] allow akonadi to start (some applications, e.g. KNotes, don't work without it)
