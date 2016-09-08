@@ -1,0 +1,6 @@
+[allow user to admin printer settings]
+Identity=unix-user:user
+Action=org.opensuse.cupspkhelper.mechanism.*;com.hp.hp-setup;com.hp.hplip.installplugin
+ResultAny=yes
+ResultInactive=yes
+ResultActive=yes
