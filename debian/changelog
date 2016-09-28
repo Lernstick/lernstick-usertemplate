@@ -1,3 +1,10 @@
+lernstick-usertemplate (44) lernstick-8; urgency=medium
+
+  * [d16cdd] updated initial MuseScore config (maximized window and ALSA
+    instead of PulseAudio, the later doesn't work with USB MIDI keyboard input)
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Wed, 28 Sep 2016 18:27:29 +0200
+
 lernstick-usertemplate (43) lernstick-8; urgency=medium
 
   * [9cae78] updated mime config (wine as default for exe files)
