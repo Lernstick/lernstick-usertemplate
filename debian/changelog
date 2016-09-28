@@ -1,3 +1,13 @@
+lernstick-usertemplate-exam (14) lernstick-8; urgency=medium
+
+  * [3534a0] allow akonadi to start (some applications, e.g. KNotes, don't work
+    without it)
+  * [9cae78] updated mime config (wine as default for exe files)
+  * [d16cdd] updated initial MuseScore config (maximized window and ALSA
+    instead of PulseAudio, the later doesn't work with USB MIDI keyboard input)
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Wed, 28 Sep 2016 18:35:59 +0200
+
 lernstick-usertemplate-exam (13) lernstick-8; urgency=medium
 
   * [2cb979] added polkit configuration for exam user
