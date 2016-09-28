@@ -1,5 +1,10 @@
-debian/lernstick-usertemplate-exam.debhelper.log
-debian/lernstick-usertemplate-exam.substvars
-debian/lernstick-usertemplate-exam/
 configure-stamp
 debian/files
+debian/lernstick-usertemplate/
+debian/lernstick-usertemplate.debhelper.log
+debian/lernstick-usertemplate-exam/
+debian/lernstick-usertemplate-exam.debhelper.log
+debian/lernstick-usertemplate-exam.substvars
+debian/lernstick-usertemplate.postinst.debhelper
+debian/lernstick-usertemplate.postrm.debhelper
+debian/lernstick-usertemplate.substvars
