@@ -1,3 +1,9 @@
+lernstick-usertemplate-exam (15) lernstick-8; urgency=medium
+
+  * [2040c7] added polkit config so that the user can change the date and time config
+
+ -- Ronny Standtke <ronny.standtke@fhnw.ch>  Thu, 13 Oct 2016 14:04:21 +0200
+
 lernstick-usertemplate-exam (14) lernstick-8; urgency=medium
 
   * [3534a0] allow akonadi to start (some applications, e.g. KNotes, don't work
