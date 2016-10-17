@@ -1,3 +1,9 @@
+lernstick-usertemplate (45) lernstick-8; urgency=medium
+
+  * [b9df8d] autostart vanished-root-handler in enlightenment
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Mon, 17 Oct 2016 15:19:12 +0200
+
 lernstick-usertemplate (44) lernstick-8; urgency=medium
 
   * [d16cdd] updated initial MuseScore config (maximized window and ALSA
