@@ -1,3 +1,9 @@
+lernstick-usertemplate (46) lernstick-8; urgency=medium
+
+  * [64bcaa] execute more lernstick services at enlightenment startup
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Sun, 27 Nov 2016 19:57:28 +0100
+
 lernstick-usertemplate (45) lernstick-8; urgency=medium
 
   * [b9df8d] autostart vanished-root-handler in enlightenment
