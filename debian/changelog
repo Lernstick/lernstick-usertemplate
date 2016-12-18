@@ -1,3 +1,9 @@
+lernstick-usertemplate (47) lernstick-8; urgency=medium
+
+  * [6aeaed] updated SpeedCrunch config (v0.10 -> v0.12)
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Sun, 18 Dec 2016 11:33:04 +0100
+
 lernstick-usertemplate (46) lernstick-8; urgency=medium
 
   * [64bcaa] execute more lernstick services at enlightenment startup
