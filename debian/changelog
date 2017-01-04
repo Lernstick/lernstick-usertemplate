@@ -1,3 +1,9 @@
+lernstick-usertemplate (49) lernstick-8; urgency=medium
+
+  * [d3ccbd] added live-config user setup config
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Wed, 04 Jan 2017 12:09:33 +0100
+
 lernstick-usertemplate (48) lernstick-8; urgency=medium
 
   * [9d2403] added preferences for widelands
