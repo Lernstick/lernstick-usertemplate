@@ -1,3 +1,9 @@
+lernstick-usertemplate-exam (17) lernstick-8; urgency=medium
+
+  * [ca7aa2] added special polkit action for jbackpack
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Sat, 14 Jan 2017 18:16:55 +0100
+
 lernstick-usertemplate-exam (16) lernstick-8; urgency=medium
 
   * [b9df8d] autostart vanished-root-handler in enlightenment
