@@ -1,3 +1,9 @@
+lernstick-usertemplate (50) lernstick-8; urgency=medium
+
+  * [3e745b] don't use Firefox as default application for images
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Sun, 22 Jan 2017 18:00:03 +0100
+
 lernstick-usertemplate (49) lernstick-8; urgency=medium
 
   * [d3ccbd] added live-config user setup config
