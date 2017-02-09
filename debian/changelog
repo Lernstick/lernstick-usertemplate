@@ -1,3 +1,9 @@
+lernstick-usertemplate (51) lernstick-8; urgency=medium
+
+  * [b62ac5] added Xfce specific mimeapps list
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Thu, 09 Feb 2017 12:53:34 +0100
+
 lernstick-usertemplate (50) lernstick-8; urgency=medium
 
   * [3e745b] don't use Firefox as default application for images
