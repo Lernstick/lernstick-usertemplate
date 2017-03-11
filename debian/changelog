@@ -1,3 +1,9 @@
+lernstick-usertemplate (53) lernstick-8; urgency=medium
+
+  * [275f1e] switched from firefox to firefox-esr
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Sat, 11 Mar 2017 12:51:41 +0100
+
 lernstick-usertemplate (52) lernstick-8; urgency=medium
 
   * [9c554e] open tif files in GNOME with eog
