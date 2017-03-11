@@ -1,2 +1,2 @@
 [org/gnome/shell]
-favorite-apps=['firefox.desktop', 'icedove.desktop', 'libreoffice-startcenter.desktop', 'gimp.desktop', 'gbrainy.desktop', 'yelp.desktop']
+favorite-apps=['firefox-esr.desktop', 'icedove.desktop', 'libreoffice-startcenter.desktop', 'gimp.desktop', 'gbrainy.desktop', 'yelp.desktop']
