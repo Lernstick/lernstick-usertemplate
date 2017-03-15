@@ -1,3 +1,9 @@
+lernstick-usertemplate (55) lernstick-8; urgency=medium
+
+  * [cb3a99] added default sudo configuration
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Wed, 15 Mar 2017 20:41:08 +0100
+
 lernstick-usertemplate (54) lernstick-8; urgency=medium
 
   * [700f31] added user to group "systemd-journal"
