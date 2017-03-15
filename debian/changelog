@@ -1,3 +1,10 @@
+lernstick-usertemplate (54) lernstick-8; urgency=medium
+
+  * [700f31] added user to group "systemd-journal"
+  * [2966fa] added etc/skel/.su-to-rootrc
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Wed, 15 Mar 2017 18:27:48 +0100
+
 lernstick-usertemplate (53) lernstick-8; urgency=medium
 
   * [275f1e] switched from firefox to firefox-esr
