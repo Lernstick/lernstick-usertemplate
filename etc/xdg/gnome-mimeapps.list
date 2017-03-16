@@ -1,2 +1,3 @@
 [Default Applications]
 application/x-deb=gdebi.desktop
+image/tiff=eog.desktop
