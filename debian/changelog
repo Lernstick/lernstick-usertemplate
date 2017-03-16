@@ -1,3 +1,13 @@
+lernstick-usertemplate-exam (18) lernstick-8; urgency=medium
+
+  * [3e745b] don't use Firefox as default application for images
+  * [b62ac5] added Xfce specific mimeapps list
+  * [9c554e] open tif files in GNOME with eog
+  * [275f1e] switched from firefox to firefox-esr
+  * [2966fa] added etc/skel/.su-to-rootrc
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Thu, 16 Mar 2017 08:01:43 +0100
+
 lernstick-usertemplate-exam (17) lernstick-8; urgency=medium
 
   * [ca7aa2] added special polkit action for jbackpack
