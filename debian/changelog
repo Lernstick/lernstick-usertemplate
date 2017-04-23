@@ -1,3 +1,9 @@
+lernstick-usertemplate (57) lernstick-8; urgency=medium
+
+  * [fe1a5c] moved from icedove to thunderbird
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Sun, 23 Apr 2017 23:19:35 +0200
+
 lernstick-usertemplate (56) lernstick-8; urgency=medium
 
   * [387936] use firefox-esr in kickoff favorites
