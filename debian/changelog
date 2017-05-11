@@ -1,3 +1,9 @@
+lernstick-usertemplate (58) lernstick-8; urgency=medium
+
+  * [475339] switch from icedove to thunderbird in KDE start menu
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Thu, 11 May 2017 14:35:13 +0200
+
 lernstick-usertemplate (57) lernstick-8; urgency=medium
 
   * [fe1a5c] moved from icedove to thunderbird
