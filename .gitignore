@@ -1,4 +1,5 @@
 configure-stamp
+debian/debhelper-build-stamp
 debian/files
 debian/lernstick-usertemplate/
 debian/lernstick-usertemplate.debhelper.log
