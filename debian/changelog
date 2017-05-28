@@ -1,3 +1,9 @@
+lernstick-usertemplate (60) lernstick-9; urgency=medium
+
+  * set GIMP as default for xcf files
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Sun, 28 May 2017 16:11:06 +0200
+
 lernstick-usertemplate (59) lernstick-8; urgency=medium
 
   * [a2aafc] added defaults for 2048-qt
