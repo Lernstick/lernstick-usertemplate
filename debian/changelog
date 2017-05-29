@@ -1,3 +1,10 @@
+lernstick-usertemplate (61) lernstick-9; urgency=medium
+
+  * updated .gitignore file
+  * use new live config directory
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Mon, 29 May 2017 19:25:34 +0200
+
 lernstick-usertemplate (60) lernstick-9; urgency=medium
 
   * set GIMP as default for xcf files
