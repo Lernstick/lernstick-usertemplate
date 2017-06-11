@@ -1,3 +1,9 @@
+lernstick-usertemplate (63) lernstick-9; urgency=medium
+
+  * updated some KDE app defaults
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Sun, 11 Jun 2017 11:29:38 +0200
+
 lernstick-usertemplate (62) lernstick-9; urgency=medium
 
   * moved user preferenced of KDE applications to new location
