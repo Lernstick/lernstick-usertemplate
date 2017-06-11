@@ -1,8 +1,0 @@
-[General Options]
-Geometry=300,400
-
-[General Options][Toolbar mainToolBar]
-ToolButtonStyle=IconOnly
-
-[ToolBar Settings]
-ToolButtonStyle=IconOnly

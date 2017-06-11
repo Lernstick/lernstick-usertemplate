@@ -1,6 +1,8 @@
 [General Settings]
-Cardname=svg-ancient-egyptians
-Theme=themes/ancientegypt.desktop
+Cardname=svg-standard
+
+[KgTheme]
+Theme=themes/cleangreen.desktop
 
 [MainWindow]
 Height 600=601

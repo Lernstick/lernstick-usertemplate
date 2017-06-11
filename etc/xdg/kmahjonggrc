@@ -1,8 +1,6 @@
 [General]
-Background_file=/usr/share/kde4/apps/kmahjongglib/backgrounds/chinese_landscape.desktop
-Layout_file=/usr/share/kde4/apps/kmahjongg/layouts/default.desktop
+Background_file=/usr/share/kmahjongglib/backgrounds/chinese_landscape.desktop
 ShowMatchingTiles=true
-Tileset_file=/usr/share/kde4/apps/kmahjongglib/tilesets/default.desktop
 
 [MainWindow]
 Height 600=601
