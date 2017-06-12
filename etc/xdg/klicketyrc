@@ -18,3 +18,6 @@ Width 1440=1441
 Width 1600=1601
 Width 1680=1681
 Width 1920=1921
+
+[MainWindow][Toolbar mainToolBar]
+ToolButtonStyle=IconOnly
