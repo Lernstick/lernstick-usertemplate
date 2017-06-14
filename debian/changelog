@@ -1,3 +1,9 @@
+lernstick-usertemplate (65) lernstick-9; urgency=medium
+
+  * removed default settings for digikam
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Wed, 14 Jun 2017 23:57:00 +0200
+
 lernstick-usertemplate (64) lernstick-9; urgency=medium
 
   * updated klickety defaults
