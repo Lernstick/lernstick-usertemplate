@@ -19,6 +19,12 @@ wallpaperplugin=org.kde.image
 DialogHeight=540
 DialogWidth=720
 
+[Containments][17][General]
+ToolBoxButtonState=topright
+ToolBoxButtonX=1200
+positions=2,9,desktop:/Home.desktop,0,0,desktop:/trash.desktop,1,0
+sortMode=-1
+
 [Containments][17][Wallpaper][org.kde.image][General]
 Image=DebianTheme
 height=1472
