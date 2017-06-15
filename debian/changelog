@@ -1,3 +1,9 @@
+lernstick-usertemplate (67) lernstick-9; urgency=medium
+
+  * use (empty) folderview as default for KDE Plasma desktop
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Thu, 15 Jun 2017 16:05:34 +0200
+
 lernstick-usertemplate (66) lernstick-9; urgency=medium
 
   * updated mimetype associations for midi files
