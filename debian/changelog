@@ -1,3 +1,10 @@
+lernstick-usertemplate (69) lernstick-9; urgency=medium
+
+  * moved KDE Plasma toolbox into topright position
+  * put home and trash above each other
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Thu, 15 Jun 2017 18:43:59 +0200
+
 lernstick-usertemplate (68) lernstick-9; urgency=medium
 
   * added "minimizeall" and "systemloadviewer" to KDE Plasma panel
