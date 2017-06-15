@@ -1,3 +1,9 @@
+lernstick-usertemplate (66) lernstick-9; urgency=medium
+
+  * updated mimetype associations for midi files
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Thu, 15 Jun 2017 13:50:47 +0200
+
 lernstick-usertemplate (65) lernstick-9; urgency=medium
 
   * removed default settings for digikam
