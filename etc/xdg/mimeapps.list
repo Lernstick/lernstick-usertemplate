@@ -6,6 +6,7 @@ application/xhtml+xml=firefox.desktop
 application/x-java-archive=execute-jar.desktop
 application/xml=firefox.desktop
 application/x-ms-dos-executable=wine.desktop
+audio/midi=vlc.desktop
 image/x-xcf=gimp.desktop
 text/html=firefox.desktop
 text/xml=firefox.desktop
@@ -20,8 +21,12 @@ application/xhtml+xml=firefox.desktop;
 application/x-java-archive=execute-jar.desktop;
 application/xml=firefox.desktop;
 application/x-ms-dos-executable=wine.desktop;
+audio/midi=vlc.desktop;mscore.desktop;
 image/x-xcf=gimp.desktop;krita_xcf.desktop;kde4-okularApplication_kimgio.desktop;
 text/html=firefox.desktop;
 text/xml=firefox.desktop;
 x-scheme-handler/http=firefox.desktop;
 x-scheme-handler/https=firefox.desktop;
+
+[Removed Associations]
+audio/midi=smplayer.desktop;
