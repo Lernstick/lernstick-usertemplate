@@ -1,3 +1,15 @@
+lernstick-usertemplate (70) lernstick-9; urgency=medium
+
+  [ kugelfish42 ]
+  * Create .lmmsrc.xml
+  * Set default soundfont path
+
+  [ Ronny Standtke ]
+  * updated GNOME shell extensions: removed sound-output-device-chooser,
+    added dash-to-dock and topicons
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Sat, 01 Jul 2017 14:02:47 +0200
+
 lernstick-usertemplate (69) lernstick-9; urgency=medium
 
   * moved KDE Plasma toolbox into topright position
