@@ -1,3 +1,9 @@
+lernstick-usertemplate (71) lernstick-9; urgency=medium
+
+  * re-enabled GNOME shell extension "sound-output-device-chooser"
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Sat, 01 Jul 2017 15:18:44 +0200
+
 lernstick-usertemplate (70) lernstick-9; urgency=medium
 
   [ kugelfish42 ]
