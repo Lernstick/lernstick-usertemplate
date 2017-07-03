@@ -1,3 +1,10 @@
+lernstick-usertemplate (72) lernstick-9; urgency=medium
+
+  * updated GNOME touchpad configuration for Debian 9
+  * added KDE touchpad config (enabled tap-to-click)
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Mon, 03 Jul 2017 11:01:21 +0200
+
 lernstick-usertemplate (71) lernstick-9; urgency=medium
 
   * re-enabled GNOME shell extension "sound-output-device-chooser"
