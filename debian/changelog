@@ -1,3 +1,9 @@
+lernstick-usertemplate (73) lernstick-9; urgency=medium
+
+  * changed default Xfce mailreader from icedove to thunderbird
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Mon, 03 Jul 2017 12:18:50 +0200
+
 lernstick-usertemplate (72) lernstick-9; urgency=medium
 
   * updated GNOME touchpad configuration for Debian 9
