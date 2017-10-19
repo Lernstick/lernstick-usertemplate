@@ -1,6 +1,6 @@
-[General Settings]
-Cardname=svg-ancient-egyptians
-Theme=themes/ancientegypt.desktop
+[General]
+Background_file=/usr/share/kmahjongglib/backgrounds/chinese_landscape.desktop
+Tileset_file=/usr/share/kmahjongglib/tilesets/default.desktop
 
 [MainWindow]
 Height 600=601

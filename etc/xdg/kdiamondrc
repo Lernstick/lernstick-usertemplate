@@ -1,6 +1,8 @@
-[General]
-Background_file=/usr/share/kde4/apps/kmahjongglib/backgrounds/chinese_landscape.desktop
-Tileset_file=/usr/share/kde4/apps/kmahjongglib/tilesets/default.desktop
+[KgDifficulty]
+Level=Very Easy
+
+[KgTheme]
+Theme=themes/diamonds.desktop
 
 [MainWindow]
 Height 600=601
@@ -22,3 +24,6 @@ Width 1440=1441
 Width 1600=1601
 Width 1680=1681
 Width 1920=1921
+
+[MainWindow][Toolbar mainToolBar]
+ToolButtonStyle=IconOnly

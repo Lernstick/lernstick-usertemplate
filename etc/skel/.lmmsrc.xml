@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<!DOCTYPE lmms-config-file>
+<lmms version="1.1.3">
+  <MidiAlsaRaw Device="default"/>
+  <Midialsaseq device="default"/>
+  <app nomsgaftersetup="0" displaydbv="0" nommpz="0" configured="1"/>
+  <audioalsa channels="2" device="default"/>
+  <audiojack channels="2" clientname="lmms"/>
+  <audiooss channels="2" device="/dev/dsp"/>
+  <audiopa channels="2" device="default"/>
+  <audioportaudio backend="ALSA" device="HDA Intel PCH: 92HD91BXX Analog (hw:0,0)"/>
+  <audiosdl device=""/>
+  <midioss device="/dev/midi"/>
+  <mixer framesperaudiobuffer="1280" hqaudio="0" audiodev="PulseAudio (bad latency!)" mididev="ALSA-Sequencer (Advanced Linux Sound Architecture)"/>
+  <paths workingdir="/home/user/lmms/" fldir="/home/user/" stkdir="/usr/share/stk/rawwaves/" vstdir="/home/user/" artwork="/usr/share/lmms/themes/default/" defaultsf2="/usr/share/sounds/sf2/FluidR3_GM.sf2" backgroundartwork="" laddir="/usr/bin/../lib/x86_64-linux-gnu//ladspa/"/>
+  <tooltips disabled="0"/>
+  <ui smoothscroll="0" compacttrackbuttons="0" enableautosave="0" animateafp="0" displaywaveform="0" oneinstrumenttrackwindow="0" syncvstplugins="0" printnotelabels="0"/>
+  <recentfiles/>
+</lmms>

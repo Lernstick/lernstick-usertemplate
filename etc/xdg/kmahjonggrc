@@ -1,5 +1,6 @@
 [General]
-Theme=themes/klines-gems.desktop
+Background_file=/usr/share/kmahjongglib/backgrounds/chinese_landscape.desktop
+ShowMatchingTiles=true
 
 [MainWindow]
 Height 600=601

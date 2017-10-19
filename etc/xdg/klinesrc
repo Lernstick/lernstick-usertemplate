@@ -1,3 +1,6 @@
+[KgTheme]
+Theme=themes/klines-gems.desktop
+
 [MainWindow]
 Height 600=601
 Height 768=769
