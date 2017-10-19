@@ -1,3 +1,36 @@
+lernstick-usertemplate-exam (20) lernstick-9; urgency=medium
+
+  [ Ronny Standtke ]
+  * [387936] use firefox-esr in kickoff favorites
+  * [fe1a5c] moved from icedove to thunderbird
+  * [475339] switch from icedove to thunderbird in KDE start menu
+  * [a2aafc] added defaults for 2048-qt
+  * [c3fcb0] set GIMP as default for xcf files
+  * [c5633f] updated .gitignore file
+  * [f2d0ab] use new live config directory
+  * [bff726] moved user preferenced of KDE applications to new location
+  * [b17b6b] updated some KDE app defaults
+  * [58ac82] updated klickety defaults
+  * [4115d8] removed default settings for digikam
+  * [865860] updated mimetype associations for midi files
+  * [c7f923] use (empty) folderview as default for KDE Plasma desktop
+  * [95277f] added "minimizeall" and "systemloadviewer" to KDE Plasma panel
+  * [6e2c7f] show date and seconds in KDE Plasma panel clock
+  * [983306] moved KDE Plasma toolbox into topright position, put home and trash above each other
+
+  [ kugelfish42 ]
+  * [e927d2] Create .lmmsrc.xml
+  * [419e38] Set default soundfont path
+
+  [ Ronny Standtke ]
+  * [6e0fa0] updated GNOME shell extensions: removed sound-output-device-chooser, added dash-to-dock and topicons
+  * [cde176] re-enabled GNOME shell extension "sound-output-device-chooser"
+  * [cc1927] updated GNOME touchpad configuration for Debian 9
+  * [7153b7] added KDE touchpad config (enabled tap-to-click)
+  * [59eb4e] changed default Xfce mailreader from icedove to thunderbird
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Thu, 19 Oct 2017 11:41:11 +0200
+
 lernstick-usertemplate-exam (19) lernstick-8; urgency=medium
 
   * [080575] removed polkit configuration for synaptic
