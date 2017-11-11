@@ -1,3 +1,9 @@
+lernstick-usertemplate (74) lernstick-9; urgency=medium
+
+  * [bd3b0d] added dconf setting to remember numlock state in GNOME
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Sat, 11 Nov 2017 16:45:09 +0100
+
 lernstick-usertemplate (73) lernstick-9; urgency=medium
 
   * changed default Xfce mailreader from icedove to thunderbird
