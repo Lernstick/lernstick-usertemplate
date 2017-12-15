@@ -1,3 +1,9 @@
+lernstick-usertemplate-exam (22) lernstick-9; urgency=medium
+
+  * [ae23c5] added config for gtkhash app (MD5 only)
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Fri, 15 Dec 2017 21:39:52 +0100
+
 lernstick-usertemplate-exam (21) lernstick-9; urgency=medium
 
   * [bd3b0d] added dconf setting to remember numlock state in GNOME
