@@ -1,2 +1,10 @@
 [org/gtkhash/plugin]
 hash-functions=['MD5']
+
+[apps/gtkhash]
+digest-format='hex-lower'
+view='file'
+window-max=false
+window-height=205
+hash-functions=['MD5']
+window-width=491
