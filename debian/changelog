@@ -1,3 +1,9 @@
+lernstick-usertemplate (75) lernstick-9; urgency=medium
+
+  * [ed9b68] added pre-configuration for gtkhash (selected MD5)
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Fri, 15 Dec 2017 14:05:56 +0100
+
 lernstick-usertemplate (74) lernstick-9; urgency=medium
 
   * [bd3b0d] added dconf setting to remember numlock state in GNOME
