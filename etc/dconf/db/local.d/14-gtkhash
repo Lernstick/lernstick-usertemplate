@@ -1,0 +1,2 @@
+[org/gtkhash/plugin]
+hash-functions=['MD5']
