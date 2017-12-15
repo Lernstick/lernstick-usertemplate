@@ -1,3 +1,9 @@
+lernstick-usertemplate-exam (23) lernstick-9; urgency=medium
+
+  * [8dabaf] added gtkhash properties for older gtkhash version
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Fri, 15 Dec 2017 22:33:49 +0100
+
 lernstick-usertemplate-exam (22) lernstick-9; urgency=medium
 
   * [ae23c5] added config for gtkhash app (MD5 only)
