@@ -1,3 +1,9 @@
+lernstick-usertemplate (79) lernstick-9; urgency=medium
+
+  * [760f3e] re-added gimp to GNOME favorites
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Sun, 24 Dec 2017 01:10:37 +0100
+
 lernstick-usertemplate (78) lernstick-9; urgency=medium
 
   * [b9d066] added signal-desktop to GNOME favorite apps
