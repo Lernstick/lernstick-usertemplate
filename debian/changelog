@@ -1,3 +1,9 @@
+lernstick-usertemplate (80) lernstick-9; urgency=medium
+
+  * [315b07] added custom mime configuration for Debian packages
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Wed, 27 Dec 2017 20:02:07 +0100
+
 lernstick-usertemplate (79) lernstick-9; urgency=medium
 
   * [760f3e] re-added gimp to GNOME favorites
