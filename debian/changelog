@@ -1,3 +1,11 @@
+lernstick-usertemplate-exam (24) lernstick-9; urgency=medium
+
+  * [431526] added gtkhash properties for older gtkhash version
+  * [315b07] added custom mime configuration for Debian packages
+  * [01cb6c] updated gtkhash properties for new version 1.1.1
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Thu, 28 Dec 2017 14:04:52 +0100
+
 lernstick-usertemplate-exam (23) lernstick-9; urgency=medium
 
   * [8dabaf] added gtkhash properties for older gtkhash version
