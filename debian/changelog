@@ -1,3 +1,10 @@
+lernstick-usertemplate (82) lernstick-9; urgency=medium
+
+  * [98eb17] added preconfiguration for GNOME extension dash-to-dock
+    (set intellihide-mode to 'ALL_WINDOWS')
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Sat, 06 Jan 2018 15:37:58 +0100
+
 lernstick-usertemplate (81) lernstick-9; urgency=medium
 
   * [01cb6c] updated gtkhash properties for new version 1.1.1
