@@ -1,3 +1,10 @@
+lernstick-usertemplate (83) lernstick-9; urgency=medium
+
+  * added initial configuration for hedgewars
+    (so that live-hedgewars also works the very first time)
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Fri, 19 Jan 2018 20:27:26 +0100
+
 lernstick-usertemplate (82) lernstick-9; urgency=medium
 
   * [98eb17] added preconfiguration for GNOME extension dash-to-dock
