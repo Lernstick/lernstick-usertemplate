@@ -1,0 +1,314 @@
+<!DOCTYPE Menu PUBLIC "-//freedesktop//DTD Menu 1.0//EN"
+ "http://www.freedesktop.org/standards/menu-spec/1.0/menu.dtd">
+<!--- 
+Based on /etc/xdg/menus/mate-applications.menu
+Modified to look like the KDE Plasma Menu
+-->
+
+<Menu>
+
+  <Name>Applications</Name>
+  <Directory>mate-menu-applications.directory</Directory>
+
+  <!-- Scan legacy dirs first, as later items take priority -->
+  <KDELegacyDirs/>
+  <LegacyDir>/etc/X11/applnk</LegacyDir>
+  <LegacyDir>/usr/share/mate/apps</LegacyDir>
+
+  <!-- Read standard .directory and .desktop file locations -->
+  <DefaultAppDirs/>
+  <DefaultDirectoryDirs/>
+
+  <!-- Read in overrides and child menus from applications-merged/ -->
+  <DefaultMergeDirs/>
+  <MergeDir>applications-merged</MergeDir>
+
+  <!-- Accessories submenu -->
+  <Menu>
+    <Name>Accessories</Name>
+    <Directory>kde-utilities.directory</Directory>
+    <Include>
+      <And>
+        <Category>Utility</Category>
+        <Not><Category>System</Category></Not>
+      </And>
+    </Include>
+  </Menu> <!-- End Accessories -->
+
+
+  <!-- Development Tools -->
+  <Menu>
+    <Name>Development</Name>
+    <Directory>mate-development.directory</Directory>
+    <Include>
+      <And>
+        <Category>Development</Category>
+      </And>
+      <Filename>emacs.desktop</Filename>
+    </Include>
+  </Menu> <!-- End Development Tools -->
+
+  <!-- Education -->
+  <Menu>
+    <Name>Education</Name>
+    <Directory>kde-education.directory</Directory>
+    <Menu>
+      <Name>Astronomy</Name>
+      <Directory>kde-edu-astronomy.directory</Directory>
+      <Include>
+        <And>
+          <Category>X-lernstick-Astronomy</Category>
+        </And>
+      </Include>
+    </Menu>
+    <Menu>
+      <Name>Geography</Name>
+      <Directory>kde-edu-geography.directory</Directory>
+      <Include>
+        <And>
+          <Category>Geography</Category>
+        </And>
+      </Include>
+    </Menu>
+    <Menu>
+      <Name>History</Name>
+      <Directory>kde-edu-history.directory</Directory>
+      <Include>
+        <And>
+          <Category>X-lernstick-History</Category>
+        </And>
+      </Include>
+    </Menu>
+    <Menu>
+      <Name>Languages</Name>
+      <Directory>kde-edu-languages.directory</Directory>
+      <Include>
+        <And>
+          <Category>Languages</Category>
+        </And>
+      </Include>
+    </Menu>
+    <Menu>
+      <Name>Mathematics</Name>
+      <Directory>kde-edu-mathematics.directory</Directory>
+      <Include>
+        <And>
+          <Category>Math</Category>
+        </And>
+      </Include>
+    </Menu>
+    <Menu>
+      <Name>Miscellaneous</Name>
+      <Directory>kde-edu-miscellaneous.directory</Directory>
+      <Include>
+        <And>
+          <Category>Education</Category>
+          <Not><Category>Astronomy</Category></Not>
+          <Not><Category>Geography</Category></Not>
+          <Not><Category>History</Category></Not>
+          <Not><Category>Languages</Category></Not>
+          <Not><Category>Math</Category></Not>
+          <Not><Category>Music</Category></Not>
+          <Not><Category>Science</Category></Not>
+          <Not><Category>Typewriting</Category></Not>
+        </And>
+      </Include>
+    </Menu>
+    <Menu>
+      <Name>Music</Name>
+      <Directory>kde-edu-music.directory</Directory>
+      <Include>
+        <And>
+          <Category>Music</Category>
+        </And>
+      </Include>
+    </Menu>
+    <Menu>
+      <Name>Science</Name>
+      <Directory>kde-edu-science.directory</Directory>
+      <Include>
+        <And>
+          <Category>Science</Category>
+        </And>
+      </Include>
+    </Menu>
+    <Menu>
+      <Name>Typewriteting</Name>
+      <Directory>kde-edu-typewriting.directory</Directory>
+      <Include>
+        <And>
+          <Category>Typewriting</Category>
+        </And>
+      </Include>
+    </Menu>
+  </Menu> <!-- End Education -->
+
+  <!-- Games -->
+  <Menu>
+    <Name>Games</Name>
+    <Directory>kde-games.directory</Directory>
+    <Menu>
+      <Name>Arcade</Name>
+      <Directory>kde-games-arcade.directory</Directory>
+      <Include>
+        <And>
+          <Category>ArcadeGame</Category>
+        </And>
+      </Include>
+    </Menu>
+    <Menu>
+      <Name>BoardGames</Name>
+      <Directory>kde-games-board.directory</Directory>
+      <Include>
+        <And>
+          <Category>BoardGame</Category>
+        </And>
+      </Include>
+    </Menu>
+    <Menu>
+      <Name>CardGames</Name>
+      <Directory>kde-games-card.directory</Directory>
+      <Include>
+        <And>
+          <Category>CardGame</Category>
+        </And>
+      </Include>
+    </Menu>
+    <Menu>
+      <Name>GamesForKids</Name>
+      <Directory>kde-games-kids.directory</Directory>
+      <Include>
+        <And>
+          <Category>KidsGame</Category>
+        </And>
+      </Include>
+    </Menu>
+    <Menu>
+      <Name>LogicGames</Name>
+      <Directory>kde-games-logic.directory</Directory>
+      <Include>
+        <And>
+          <Category>LogicGame</Category>
+        </And>
+      </Include>
+    </Menu>
+    <Menu>
+      <Name>TacticsStrategy</Name>
+      <Directory>kde-games-strategy.directory</Directory>
+      <Include>
+        <And>
+          <Category>StrategyGame</Category>
+        </And>
+      </Include>
+    </Menu>
+    <Include>
+      <And>
+        <Category>Game</Category>
+        <Not><Category>ArcadeGame</Category></Not>
+        <Not><Category>BoardGame</Category></Not>
+        <Not><Category>CardGame</Category></Not>
+        <Not><Category>KidsGame</Category></Not>
+        <Not><Category>LogicGame</Category></Not>
+        <Not><Category>StrategyGame</Category></Not>
+      </And>
+    </Include>
+  </Menu> <!-- End Games -->
+
+  <!-- Graphics -->
+  <Menu>
+    <Name>Graphics</Name>
+    <Directory>mate-graphics.directory</Directory>
+    <Include>
+      <And>
+        <Category>Graphics</Category>
+      </And>
+    </Include>
+  </Menu> <!-- End Graphics -->
+
+  <!-- Internet -->
+  <Menu>
+    <Name>Internet</Name>
+    <Directory>mate-network.directory</Directory>
+    <Include>
+      <And>
+        <Category>Network</Category>
+      </And>
+    </Include>
+  </Menu>   <!-- End Internet -->
+
+  <!-- Multimedia -->
+  <Menu>
+    <Name>Multimedia</Name>
+    <Directory>mate-audio-video.directory</Directory>
+    <Include>
+      <And>
+        <Category>AudioVideo</Category>
+      </And>
+    </Include>
+  </Menu>   <!-- End Multimedia -->
+
+  <!-- Office -->
+  <Menu>
+    <Name>Office</Name>
+    <Directory>mate-office.directory</Directory>
+    <Include>
+      <And>
+        <Category>Office</Category>
+      </And>
+    </Include>
+  </Menu> <!-- End Office -->
+
+  <!-- System Tools-->
+  <Menu>
+    <Name>System</Name>
+    <Directory>mate-system-tools.directory</Directory>
+    <Include>
+      <And>
+        <Category>System</Category>
+        <Not><Category>Settings</Category></Not>
+      </And>
+    </Include>
+    <Menu>
+      <Name>Lernstick</Name>
+      <Directory>lernstick-system.directory</Directory>
+      <Include>
+        <And>
+          <Category>X-lernstick</Category>
+        </And>
+      </Include>
+    </Menu>
+    <Menu>
+      <Name>Compatibility</Name>
+      <Directory>compatibility.directory</Directory>
+      <Include>
+        <And>
+          <Category>Emulator</Category>
+        </And>
+      </Include>
+    </Menu>
+    <Menu>
+      <Name>Software</Name>
+      <Directory>software.directory</Directory>
+      <Include>
+        <And>
+          <Category>PackageManager</Category>
+        </And>
+      </Include>
+    </Menu>
+  </Menu>   <!-- End System Tools -->
+
+  <!-- Other -->
+  <Menu>
+    <Name>Other</Name>
+    <Directory>mate-other.directory</Directory>
+    <OnlyUnallocated/>
+    <Include>
+      <And>
+        <Not><Category>Core</Category></Not>
+        <Not><Category>Settings</Category></Not>
+        <Not><Category>Screensaver</Category></Not>
+      </And>
+    </Include>
+  </Menu> <!-- End Other -->
+
+</Menu> <!-- End Applications -->
