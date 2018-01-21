@@ -2,5 +2,5 @@
 clock-show-date=true
 clock-show-seconds=true
 
-[org/gnome/shell/calendar]
+[org/gnome/desktop/calendar]
 show-weekdate=true
