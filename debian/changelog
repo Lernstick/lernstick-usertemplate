@@ -1,3 +1,15 @@
+lernstick-usertemplate-exam (26) lernstick-9; urgency=medium
+
+  [ Thore Sommer ]
+  * updated dconf settings to work with Debian 9
+  * Deleted 10-interactive-power-button
+
+  [ Ronny Standtke ]
+  * use default value for natural scrolling in GNOME
+  * removed files from skeleton that are not relevant for the exam environment
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Sun, 21 Jan 2018 16:15:00 +0100
+
 lernstick-usertemplate-exam (25) lernstick-9; urgency=medium
 
   * [98eb17] added preconfiguration for GNOME extension dash-to-dock
