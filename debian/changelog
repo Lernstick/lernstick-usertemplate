@@ -1,3 +1,14 @@
+lernstick-usertemplate (84) lernstick-9; urgency=medium
+
+  [ Thore Sommer ]
+  * updated dconf settings to work with Debian 9
+  * Deleted 10-interactive-power-button
+
+  [ Ronny Standtke ]
+  * use default value for natural scrolling in GNOME
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Sun, 21 Jan 2018 16:04:54 +0100
+
 lernstick-usertemplate (83) lernstick-9; urgency=medium
 
   * added initial configuration for hedgewars
