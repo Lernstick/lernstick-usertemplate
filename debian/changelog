@@ -1,3 +1,9 @@
+lernstick-usertemplate (85) lernstick-9; urgency=medium
+
+  * [e671b8] show seconds in Cinnamon clock
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Mon, 22 Jan 2018 13:22:16 +0100
+
 lernstick-usertemplate (84) lernstick-9; urgency=medium
 
   [ Thore Sommer ]
