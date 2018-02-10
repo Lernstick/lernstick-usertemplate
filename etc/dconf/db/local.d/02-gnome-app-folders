@@ -9,7 +9,7 @@ name='Game.directory'
 [org/gnome/desktop/app-folders/folders/Compatibility]
 translate=true
 categories=['Emulator']
-name='compatibility.directory'
+name='lernstick-compatibility.directory'
 
 [org/gnome/desktop/app-folders/folders/Sundry]
 translate=true
