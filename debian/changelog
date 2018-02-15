@@ -1,3 +1,10 @@
+lernstick-usertemplate-exam (27) lernstick-9; urgency=medium
+
+  * [e671b8] show seconds in Cinnamon clock
+  * [ae4a66] updated GNOME compatibility app-folder to match updated lernstick-menu-xdg2
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Thu, 15 Feb 2018 23:36:54 +0100
+
 lernstick-usertemplate-exam (26) lernstick-9; urgency=medium
 
   [ Thore Sommer ]
