@@ -1,3 +1,9 @@
+lernstick-usertemplate (87) lernstick-9; urgency=medium
+
+  * [6e9a4d] lock screen orientation (automatic rotation is still buggy)
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Fri, 25 May 2018 08:27:05 +0200
+
 lernstick-usertemplate (86) lernstick-9; urgency=medium
 
   * [ae4a66] updated GNOME compatibility app-folder to match updated
