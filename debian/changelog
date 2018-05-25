@@ -1,3 +1,9 @@
+lernstick-usertemplate-exam (28) lernstick-9; urgency=medium
+
+  * [6e9a4d] lock screen orientation (automatic rotation is still buggy)
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Fri, 25 May 2018 08:35:16 +0200
+
 lernstick-usertemplate-exam (27) lernstick-9; urgency=medium
 
   * [e671b8] show seconds in Cinnamon clock
