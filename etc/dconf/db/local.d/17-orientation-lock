@@ -1,0 +1,10 @@
+# On quite many notebooks the screen just randomly rotates. This is too much
+# fun, especially in exam situations. There are probably some bugs in GNOME,
+# iio-sensor-proxy or systemd, e.g.:
+# https://github.com/hadess/iio-sensor-proxy/issues/198
+# https://github.com/systemd/systemd/issues/7151
+# While this stack is so fragile and buggy we better disable automatic screen
+# orientation in GNOME via this setting.
+
+[org/gnome/settings-daemon/peripherals/touchscreen]
+orientation-lock=true
