@@ -1,3 +1,9 @@
+lernstick-usertemplate (88) lernstick-9; urgency=medium
+
+  * [152859] updated extremetuxracer default config file
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Sun, 10 Jun 2018 17:53:11 +0200
+
 lernstick-usertemplate (87) lernstick-9; urgency=medium
 
   * [6e9a4d] lock screen orientation (automatic rotation is still buggy)
