@@ -1,3 +1,9 @@
+lernstick-usertemplate (89) lernstick-9; urgency=medium
+
+  * [37296d] added Nautilus to GNOME favorites
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Fri, 29 Jun 2018 14:22:06 +0200
+
 lernstick-usertemplate (88) lernstick-9; urgency=medium
 
   * [152859] updated extremetuxracer default config file
