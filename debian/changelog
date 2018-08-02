@@ -1,3 +1,9 @@
+lernstick-usertemplate (90) lernstick-9; urgency=medium
+
+  * [b9fe93] added default config for QGIS
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Thu, 02 Aug 2018 16:17:45 +0200
+
 lernstick-usertemplate (89) lernstick-9; urgency=medium
 
   * [37296d] added Nautilus to GNOME favorites
