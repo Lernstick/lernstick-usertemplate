@@ -1,3 +1,10 @@
+lernstick-usertemplate (91) lernstick-9; urgency=medium
+
+  [ Raphael Das Gupta ]
+  * [5e378b] improve QGIS UI simplification
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Mon, 21 Jan 2019 21:56:21 +0100
+
 lernstick-usertemplate (90) lernstick-9; urgency=medium
 
   * [b9fe93] added default config for QGIS
