@@ -1,3 +1,9 @@
+lernstick-usertemplate (92) lernstick-9; urgency=medium
+
+  * [6a98b4] show "create link" menu item in nautilus
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Thu, 24 Jan 2019 18:31:25 +0100
+
 lernstick-usertemplate (91) lernstick-9; urgency=medium
 
   [ Raphael Das Gupta ]
