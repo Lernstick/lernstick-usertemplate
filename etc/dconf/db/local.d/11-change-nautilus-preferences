@@ -1,3 +1,4 @@
 [org/gnome/nautilus/preferences]
 executable-text-activation='ask'
+show-create-link=true
 show-delete-permanently=true
