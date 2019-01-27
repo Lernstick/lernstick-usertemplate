@@ -1,5 +1,6 @@
 [org/onboard]
-theme='/usr/share/onboard/themes/Droid.theme'
+theme='/usr/share/onboard/themes/Blackboard.theme'
+system-theme-associations={'LowContrast': 'LowContrast', 'Default': '', 'HighContrast': 'HighContrast', 'HighContrastInverse': 'HighContrastInverse', 'Adwaita': '/usr/share/onboard/themes/Blackboard.theme'}
 
 [org/onboard/window]
 docking-enabled=true
