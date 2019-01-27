@@ -1,3 +1,9 @@
+lernstick-usertemplate (95) lernstick-9; urgency=medium
+
+  * [fdaff5] updated onboard default settings for backported version 1.4.1
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Sun, 27 Jan 2019 21:44:51 +0100
+
 lernstick-usertemplate (94) lernstick-9; urgency=medium
 
   * [169601] fixed automatic onboard theme selection (and switched to blackboard theme)
