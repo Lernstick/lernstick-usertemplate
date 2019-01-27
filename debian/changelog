@@ -1,3 +1,9 @@
+lernstick-usertemplate (93) lernstick-9; urgency=medium
+
+  * [9dabd4] added more comfortable onboard defaults
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Sun, 27 Jan 2019 19:01:42 +0100
+
 lernstick-usertemplate (92) lernstick-9; urgency=medium
 
   * [6a98b4] show "create link" menu item in nautilus
