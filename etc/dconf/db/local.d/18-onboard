@@ -1,0 +1,5 @@
+[org/onboard]
+theme='/usr/share/onboard/themes/Droid.theme'
+
+[org/onboard/window]
+docking-enabled=true
