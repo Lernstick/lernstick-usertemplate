@@ -1,3 +1,19 @@
+lernstick-usertemplate-exam (29) lernstick-9; urgency=medium
+
+  [ Ronny Standtke ]
+  * [152859] updated extremetuxracer default config file
+  * [37296d] added Nautilus to GNOME favorites
+  * [b9fe93] added default config for QGIS
+  * [6a98b4] show "create link" menu item in nautilus
+  * [9dabd4] added more comfortable onboard defaults
+  * [169601] fixed automatic onboard theme selection (and switched to blackboard theme)
+  * [fdaff5] updated onboard default settings for backported version 1.4.1
+
+  [ Raphael Das Gupta ]
+  * [5e378b] improve QGIS UI simplification
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Sun, 03 Feb 2019 22:38:39 +0100
+
 lernstick-usertemplate-exam (28) lernstick-9; urgency=medium
 
   * [6e9a4d] lock screen orientation (automatic rotation is still buggy)
