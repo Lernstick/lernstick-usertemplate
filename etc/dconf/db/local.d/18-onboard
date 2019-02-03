@@ -1,0 +1,7 @@
+[org/onboard]
+theme='/usr/share/onboard/themes/Blackboard.theme'
+system-theme-associations={'LowContrast': 'LowContrast', 'Default': '', 'HighContrast': 'HighContrast', 'HighContrastInverse': 'HighContrastInverse', 'Adwaita': '/usr/share/onboard/themes/Blackboard.theme'}
+status-icon-provider='AppIndicator'
+
+[org/onboard/window]
+docking-enabled=true
