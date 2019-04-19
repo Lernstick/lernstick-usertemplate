@@ -1,2 +1,0 @@
-[fullscreen] 1
-[language] de_DE
