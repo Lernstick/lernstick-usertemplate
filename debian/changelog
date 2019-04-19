@@ -1,3 +1,12 @@
+lernstick-usertemplate-exam (30) lernstick-9; urgency=medium
+
+  * [67b0b7] use persistent "Temporary files" path in LibreOffice
+             (fixes https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=927426)
+  * [671ac0] added missing config item for LibreOffice temporary path setting
+  * [f2c66c] removed etr config (not needed in exam environment)
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Fri, 19 Apr 2019 16:59:22 +0200
+
 lernstick-usertemplate-exam (29) lernstick-9; urgency=medium
 
   [ Ronny Standtke ]
