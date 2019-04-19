@@ -1,3 +1,9 @@
+lernstick-usertemplate (97) lernstick-9; urgency=medium
+
+  * [671ac0] added missing config item for LibreOffice temporary path setting
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Fri, 19 Apr 2019 16:46:15 +0200
+
 lernstick-usertemplate (96) lernstick-9; urgency=medium
 
   * [67b0b7] use persistent "Temporary files" path in LibreOffice
