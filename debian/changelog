@@ -1,3 +1,10 @@
+lernstick-usertemplate (96) lernstick-9; urgency=medium
+
+  * [67b0b7] use persistent "Temporary files" path in LibreOffice
+             (fixes https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=927426)
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Fri, 19 Apr 2019 16:25:48 +0200
+
 lernstick-usertemplate (95) lernstick-9; urgency=medium
 
   * [fdaff5] updated onboard default settings for backported version 1.4.1
