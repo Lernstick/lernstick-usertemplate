@@ -1,3 +1,10 @@
+lernstick-usertemplate-exam (31) lernstick-9; urgency=medium
+
+  * [c4678a] disable power button to prevent accidental suspend/shutdown
+             (happended during exam by fatfingering the backspace button)
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Tue, 21 May 2019 13:32:02 +0200
+
 lernstick-usertemplate-exam (30) lernstick-9; urgency=medium
 
   * [67b0b7] use persistent "Temporary files" path in LibreOffice
