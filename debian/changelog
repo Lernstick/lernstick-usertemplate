@@ -1,3 +1,9 @@
+lernstick-usertemplate (98) lernstick-10; urgency=medium
+
+  * [e398f2] removed etc/xdg/ksudokurc (provided upstream)
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Sat, 10 Aug 2019 18:03:20 +0200
+
 lernstick-usertemplate (97) lernstick-9; urgency=medium
 
   * [671ac0] added missing config item for LibreOffice temporary path setting
