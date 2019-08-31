@@ -1,3 +1,9 @@
+lernstick-usertemplate (99) lernstick-10; urgency=medium
+
+  * [825343] enable suspend-button extension
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Sat, 31 Aug 2019 17:13:19 +0200
+
 lernstick-usertemplate (98) lernstick-10; urgency=medium
 
   * [e398f2] removed etc/xdg/ksudokurc (provided upstream)
