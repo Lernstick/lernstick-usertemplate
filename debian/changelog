@@ -1,3 +1,10 @@
+lernstick-usertemplate (101) lernstick-10; urgency=medium
+
+  * [c8a6c8] found a solution/workaround to also activate the notebookbar UI
+             for LibreOffice Draw
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Tue, 10 Sep 2019 14:09:59 +0200
+
 lernstick-usertemplate (100) lernstick-10; urgency=medium
 
   * [e9555f] updated .gitignore file
