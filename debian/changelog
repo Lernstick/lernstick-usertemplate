@@ -1,3 +1,10 @@
+lernstick-usertemplate-exam (33) lernstick-10; urgency=medium
+
+  * [4e521b] removed disabling of GNOME lock screen
+             (otherwise our virtualization detection tool can't lock the screen anymore in Debian 10)
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Sat, 05 Oct 2019 15:08:36 +0200
+
 lernstick-usertemplate-exam (32) lernstick-10; urgency=medium
 
   * [e398f2] removed etc/xdg/ksudokurc (provided upstream)
