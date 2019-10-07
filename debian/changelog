@@ -1,3 +1,9 @@
+lernstick-usertemplate-exam (35) lernstick-10; urgency=medium
+
+  * [ecb5e2] disabled screen dimming
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Mon, 07 Oct 2019 23:13:32 +0200
+
 lernstick-usertemplate-exam (34) lernstick-10; urgency=medium
 
   * [4b5308] set new sleep-inactive-* settings in org/gnome/settings-daemon/plugins/power
@@ -16,7 +22,10 @@ lernstick-usertemplate-exam (32) lernstick-10; urgency=medium
 
   * [e398f2] removed etc/xdg/ksudokurc (provided upstream)
   * [e9555f] updated .gitignore file
-  * [418228] updated libreoffice config: - don't show tip of the day - don't show first run hint - use notebookbar UI for calc, impress and writer
+  * [418228] updated libreoffice config:
+              - don't show tip of the day
+              - don't show first run hint
+              - use notebookbar UI for calc, impress and writer
   * [c8a6c8] found a solution/workaround to also activate the notebookbar UI for LibreOffice Draw
 
  -- Ronny Standtke <ronny.standtke@gmx.net>  Mon, 30 Sep 2019 09:41:18 +0200
