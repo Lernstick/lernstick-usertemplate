@@ -1,3 +1,10 @@
+lernstick-usertemplate-exam (34) lernstick-10; urgency=medium
+
+  * [4b5308] set new sleep-inactive-* settings in org/gnome/settings-daemon/plugins/power
+             to 'nothing' to prevent laptops falling into sleep mode
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Mon, 07 Oct 2019 22:05:45 +0200
+
 lernstick-usertemplate-exam (33) lernstick-10; urgency=medium
 
   * [4e521b] removed disabling of GNOME lock screen
