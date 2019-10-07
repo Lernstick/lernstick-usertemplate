@@ -1,4 +1,5 @@
 [org/gnome/settings-daemon/plugins/power]
+idle-dim=false
 power-button-action='nothing'
 sleep-inactive-ac-type='nothing'
 sleep-inactive-battery-type='nothing'
