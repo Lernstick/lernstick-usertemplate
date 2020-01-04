@@ -1,6 +1,4 @@
-[org/gnome/desktop/background]
-show-desktop-icons=true
-
-[org/gnome/nautilus/desktop]
-home-icon-visible=false
-trash-icon-visible=false
+[org/gnome/shell/extensions/desktop-icons]
+icon-size='large'
+show-trash=false
+show-home=false
