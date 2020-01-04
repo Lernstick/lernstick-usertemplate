@@ -1,3 +1,9 @@
+lernstick-usertemplate-exam (36) lernstick-10; urgency=medium
+
+  * [5596f7] updated config to show desktop icons in Debian 10
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Sat, 04 Jan 2020 15:44:28 +0100
+
 lernstick-usertemplate-exam (35) lernstick-10; urgency=medium
 
   * [ecb5e2] disabled screen dimming
