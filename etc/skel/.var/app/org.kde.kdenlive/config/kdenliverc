@@ -1,0 +1,6 @@
+[UiSettings]
+ColorScheme=Breeze
+
+[unmanaged]
+force_breeze=true
+widgetstyle=Breeze
