@@ -1,3 +1,9 @@
+lernstick-usertemplate (103) lernstick-10; urgency=medium
+
+  * [098ff0] prevent version info popup
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Mon, 10 Feb 2020 19:02:16 +0100
+
 lernstick-usertemplate (102) lernstick-10; urgency=medium
 
   * [06d7aa] fix default theme for kdenlive from flathub
