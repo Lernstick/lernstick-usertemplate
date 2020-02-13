@@ -1,3 +1,10 @@
+lernstick-usertemplate-exam (37) lernstick-10; urgency=medium
+
+  * [06d7aa] fix default theme for kdenlive from flathub
+  * [098ff0] prevent version info popup
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Thu, 13 Feb 2020 18:30:03 +0100
+
 lernstick-usertemplate-exam (36) lernstick-10; urgency=medium
 
   * [5596f7] updated config to show desktop icons in Debian 10
