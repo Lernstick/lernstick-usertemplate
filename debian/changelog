@@ -1,3 +1,9 @@
+lernstick-usertemplate (104) lernstick-10; urgency=medium
+
+  * [37e84f] always show a11y status
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Wed, 26 Feb 2020 12:27:12 +0100
+
 lernstick-usertemplate (103) lernstick-10; urgency=medium
 
   * [098ff0] prevent version info popup
