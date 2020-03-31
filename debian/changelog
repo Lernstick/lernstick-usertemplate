@@ -1,3 +1,9 @@
+lernstick-usertemplate (105) lernstick-10; urgency=medium
+
+  * [40cef4] provide sane defaults for qsynth
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Tue, 31 Mar 2020 20:53:59 +0200
+
 lernstick-usertemplate (104) lernstick-10; urgency=medium
 
   * [37e84f] always show a11y status
