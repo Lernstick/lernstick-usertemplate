@@ -1,3 +1,9 @@
+lernstick-usertemplate (106) lernstick-10; urgency=medium
+
+  * [8cf489] provide sane defaults for vmpk
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Wed, 01 Apr 2020 07:51:55 +0200
+
 lernstick-usertemplate (105) lernstick-10; urgency=medium
 
   * [40cef4] provide sane defaults for qsynth
