@@ -1,3 +1,16 @@
+lernstick-usertemplate-exam (39) lernstick-10; urgency=medium
+
+  * [40cef4] provide sane defaults for qsynth
+  * [8cf489] provide sane defaults for vmpk
+  * [b2a26e] moved custom LibreOffice configuration to its system directory so that it doesn't get lost when the user deletes his/her .config directory
+  * [a87c72] always create backup copy when autosaving LibreOffice files
+  * [3f6195] moved custom LibreOffice config to default directory
+  * [2f641f] Revert "moved custom LibreOffice config to default directory"
+  * [6f43ed] removed deprecated custom LibreOffice configuration
+  * [591069] added exam specific LibreOffice configuration (removes menu item for downloading online dictionaries)
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Tue, 05 May 2020 00:09:44 +0200
+
 lernstick-usertemplate-exam (38) lernstick-10; urgency=medium
 
   * [37e84f] always show a11y status
