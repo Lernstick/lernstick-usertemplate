@@ -1,3 +1,9 @@
+lernstick-usertemplate (110) lernstick-10; urgency=medium
+
+  * [2f641f] Revert "moved custom LibreOffice config to default directory"
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Mon, 04 May 2020 23:45:26 +0200
+
 lernstick-usertemplate (109) lernstick-10; urgency=medium
 
   * [3f6195] moved custom LibreOffice config to default directory
