@@ -1,3 +1,9 @@
+lernstick-usertemplate (108) lernstick-10; urgency=medium
+
+  * [a87c72] always create backup copy when autosaving LibreOffice files
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Mon, 04 May 2020 23:26:40 +0200
+
 lernstick-usertemplate (107) lernstick-10; urgency=medium
 
   * [b2a26e] moved custom LibreOffice configuration to its system directory so
