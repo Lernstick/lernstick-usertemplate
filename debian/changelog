@@ -1,3 +1,10 @@
+lernstick-usertemplate (107) lernstick-10; urgency=medium
+
+  * [b2a26e] moved custom LibreOffice configuration to its system directory so
+    that it doesn't get lost when the user deletes his/her .config directory
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Mon, 04 May 2020 23:03:09 +0200
+
 lernstick-usertemplate (106) lernstick-10; urgency=medium
 
   * [8cf489] provide sane defaults for vmpk
