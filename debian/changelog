@@ -1,3 +1,9 @@
+lernstick-usertemplate (111) lernstick-10; urgency=medium
+
+  * [e41912] added riot-desktop to GNOME favorites
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Mon, 11 May 2020 07:58:57 +0200
+
 lernstick-usertemplate (110) lernstick-10; urgency=medium
 
   * [2f641f] Revert "moved custom LibreOffice config to default directory"
