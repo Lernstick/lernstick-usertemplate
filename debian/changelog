@@ -1,3 +1,9 @@
+lernstick-usertemplate (112) lernstick-10; urgency=medium
+
+  * [49dab2] added jitsi-meet-electron to GNOME favorites
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Sun, 07 Jun 2020 16:58:59 +0200
+
 lernstick-usertemplate (111) lernstick-10; urgency=medium
 
   * [e41912] added riot-desktop to GNOME favorites
