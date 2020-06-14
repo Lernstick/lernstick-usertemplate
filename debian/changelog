@@ -1,3 +1,9 @@
+lernstick-usertemplate (113) lernstick-10; urgency=medium
+
+  * [00c52c] added defaults for Jitsi Meet
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Sun, 14 Jun 2020 04:56:13 +0200
+
 lernstick-usertemplate (112) lernstick-10; urgency=medium
 
   * [49dab2] added jitsi-meet-electron to GNOME favorites
