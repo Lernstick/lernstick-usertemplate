@@ -1,3 +1,9 @@
+lernstick-usertemplate (114) lernstick-10; urgency=medium
+
+  * [3f5b4e] replaced rebranded Riot.im with Element
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Thu, 16 Jul 2020 21:06:05 +0200
+
 lernstick-usertemplate (113) lernstick-10; urgency=medium
 
   * [00c52c] added defaults for Jitsi Meet
