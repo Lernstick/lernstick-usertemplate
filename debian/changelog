@@ -1,3 +1,9 @@
+lernstick-usertemplate (117) lernstick-10; urgency=medium
+
+  * [4db20e] use hires graphs in bashtop
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Fri, 17 Jul 2020 18:14:14 +0200
+
 lernstick-usertemplate (116) lernstick-10; urgency=medium
 
   * [2f3f02] added sane default config for bashtop
