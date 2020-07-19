@@ -1,2 +1,2 @@
 [org/gnome/shell]
-enabled-extensions=['GPaste@gnome-shell-extensions.gnome.org', 'places-menu@gnome-shell-extensions.gcampax.github.com', 'sound-output-device-chooser@kgshank.net', 'dash-to-dock@micxgx.gmail.com', 'TopIcons@phocean.net', 'suspend-button@laserb']
+enabled-extensions=['GPaste@gnome-shell-extensions.gnome.org', 'places-menu@gnome-shell-extensions.gcampax.github.com', 'sound-output-device-chooser@kgshank.net', 'dash-to-dock@micxgx.gmail.com', 'TopIcons@phocean.net', 'suspend-button@laserb', 'alternate-tab@gnome-shell-extensions.gcampax.github.com']
