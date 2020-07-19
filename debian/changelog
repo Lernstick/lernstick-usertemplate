@@ -1,3 +1,9 @@
+lernstick-usertemplate (119) lernstick-10; urgency=medium
+
+  * [e499e4] enabled alternate-tab GNOME extension
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Mon, 20 Jul 2020 00:22:23 +0200
+
 lernstick-usertemplate (118) lernstick-10; urgency=medium
 
   * [128cd6] added sane defaults for Berusky2
