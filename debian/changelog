@@ -1,3 +1,10 @@
+lernstick-usertemplate (118) lernstick-10; urgency=medium
+
+  * [128cd6] added sane defaults for Berusky2
+  * [56d171] added sane defaults for Mindustry
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Sun, 19 Jul 2020 16:27:09 +0200
+
 lernstick-usertemplate (117) lernstick-10; urgency=medium
 
   * [4db20e] use hires graphs in bashtop
