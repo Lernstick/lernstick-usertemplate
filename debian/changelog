@@ -1,3 +1,13 @@
+lernstick-usertemplate-exam (42) lernstick-10; urgency=medium
+
+  * [6d7c7a] added symlink to aacs keydb
+  * [2f3f02] added sane default config for bashtop
+  * [44a3bd] updated Blender preferences
+  * [4db20e] use hires graphs in bashtop
+  * [e499e4] enabled alternate-tab GNOME extension
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Mon, 20 Jul 2020 00:30:01 +0200
+
 lernstick-usertemplate-exam (41) lernstick-10; urgency=medium
 
   * [00c52c] added defaults for Jitsi Meet
