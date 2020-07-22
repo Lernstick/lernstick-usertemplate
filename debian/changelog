@@ -1,3 +1,10 @@
+lernstick-usertemplate-exam (43) lernstick-10; urgency=medium
+
+  * [74344e] replaced alternatetab extension with custom keybindings, see:
+    https://blogs.gnome.org/fmuellner/2018/10/11/the-future-of-alternatetab-and-why-you-need-not-worry/
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Wed, 22 Jul 2020 17:31:49 +0200
+
 lernstick-usertemplate-exam (42) lernstick-10; urgency=medium
 
   * [6d7c7a] added symlink to aacs keydb
