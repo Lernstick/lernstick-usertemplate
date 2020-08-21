@@ -1,3 +1,9 @@
+lernstick-usertemplate (121) lernstick-10; urgency=medium
+
+  * [a0c85b] updated blender prefereces to v2.83
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Fri, 21 Aug 2020 13:03:18 +0200
+
 lernstick-usertemplate (120) lernstick-10; urgency=medium
 
   * [74344e] replaced alternatetab extension with custom keybindings, see:
