@@ -1,3 +1,9 @@
+lernstick-usertemplate (122) lernstick-10; urgency=medium
+
+  * [2ae72a] moved LibreOffice config to new place (LO v7 expects it there)
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Thu, 27 Aug 2020 13:30:42 +0200
+
 lernstick-usertemplate (121) lernstick-10; urgency=medium
 
   * [a0c85b] updated blender prefereces to v2.83
