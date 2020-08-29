@@ -1,3 +1,10 @@
+lernstick-usertemplate-exam (44) lernstick-10; urgency=medium
+
+  * [a0c85b] updated blender prefereces to v2.83
+  * [2ae72a] moved LibreOffice config to new place (LO v7 expects it there)
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Sat, 29 Aug 2020 17:37:04 +0200
+
 lernstick-usertemplate-exam (43) lernstick-10; urgency=medium
 
   * [74344e] replaced alternatetab extension with custom keybindings, see:
