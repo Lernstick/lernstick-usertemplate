@@ -1,3 +1,9 @@
+lernstick-usertemplate-exam (45) lernstick-10; urgency=medium
+
+  * [2904cf] replaced bashtop with bpytop
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Sun, 04 Oct 2020 16:41:58 +0200
+
 lernstick-usertemplate-exam (44) lernstick-10; urgency=medium
 
   * [a0c85b] updated blender prefereces to v2.83
