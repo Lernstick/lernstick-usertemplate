@@ -1,3 +1,9 @@
+lernstick-usertemplate (123) lernstick-10; urgency=medium
+
+  * [2904cf] replaced bashtop with bpytop
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Sun, 04 Oct 2020 16:38:38 +0200
+
 lernstick-usertemplate (122) lernstick-10; urgency=medium
 
   * [2ae72a] moved LibreOffice config to new place (LO v7 expects it there)
