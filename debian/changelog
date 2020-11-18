@@ -1,3 +1,9 @@
+lernstick-usertemplate (124) lernstick-10; urgency=medium
+
+  * [574bed] hide LanguageTool toolbar in LibreOffice
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Wed, 18 Nov 2020 04:10:23 +0100
+
 lernstick-usertemplate (123) lernstick-10; urgency=medium
 
   * [2904cf] replaced bashtop with bpytop
