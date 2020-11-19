@@ -64,9 +64,4 @@
         <prop oor:name="Active" oor:op="fuse"><value>notebookbar.ui</value></prop>
     </item>
 
-    <!-- Disable "View -> Toolbars -> LanguageTool" -->
-    <item oor:path="/org.openoffice.Office.UI.WriterWindowState/UIElements/States/org.openoffice.Office.UI.WindowState:WindowStateType['private:resource/toolbar/addon_org.languagetool.openoffice.Main.toolbar']">
-        <prop oor:name="Visible" oor:op="fuse"><value>false</value></prop>
-    </item>
-
 </oor:items>
