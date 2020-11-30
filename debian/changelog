@@ -1,3 +1,9 @@
+lernstick-usertemplate (126) lernstick-10; urgency=medium
+
+  * [f49f78] show battery percentage
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Mon, 30 Nov 2020 19:09:11 +0100
+
 lernstick-usertemplate (125) lernstick-10; urgency=medium
 
   * [591138] removed LanguageTool settings (didn't work like expected)
