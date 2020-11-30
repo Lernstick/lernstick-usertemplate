@@ -1,3 +1,12 @@
+lernstick-usertemplate-exam (46) lernstick-10; urgency=medium
+
+  * [574bed] hide LanguageTool toolbar in LibreOffice
+  * [591138] removed LanguageTool settings (didn't work like expected)
+  * [6ad1c6] set GNOME touchpad click method to 'areas' to simplify right-clicking
+  * [f49f78] show battery percentage
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Mon, 30 Nov 2020 19:13:01 +0100
+
 lernstick-usertemplate-exam (45) lernstick-10; urgency=medium
 
   * [2904cf] replaced bashtop with bpytop
