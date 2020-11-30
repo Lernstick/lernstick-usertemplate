@@ -1,6 +1,7 @@
 [org/gnome/desktop/interface]
 clock-show-date=true
 clock-show-seconds=true
+show-battery-percentage=true
 
 [org/gnome/desktop/calendar]
 show-weekdate=true
