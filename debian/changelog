@@ -1,3 +1,9 @@
+lernstick-usertemplate (127) lernstick-10; urgency=medium
+
+  * [1d7cd5] hide bpytop init screen
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Tue, 08 Dec 2020 14:54:42 +0100
+
 lernstick-usertemplate (126) lernstick-10; urgency=medium
 
   * [f49f78] show battery percentage
