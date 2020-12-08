@@ -1,3 +1,10 @@
+lernstick-usertemplate-exam (47) lernstick-10; urgency=medium
+
+  * [1d7cd5] hide bpytop init screen
+  * [21a94e] moved bpytop config file to better place
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Tue, 08 Dec 2020 15:09:10 +0100
+
 lernstick-usertemplate-exam (46) lernstick-10; urgency=medium
 
   * [574bed] hide LanguageTool toolbar in LibreOffice
