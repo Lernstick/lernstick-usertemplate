@@ -1,3 +1,9 @@
+lernstick-usertemplate (128) lernstick-10; urgency=medium
+
+  * [21a94e] moved bpytop config file to better place
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Tue, 08 Dec 2020 15:06:11 +0100
+
 lernstick-usertemplate (127) lernstick-10; urgency=medium
 
   * [1d7cd5] hide bpytop init screen
