@@ -1,3 +1,9 @@
+lernstick-usertemplate-exam (48) lernstick-10; urgency=medium
+
+  * [0ecc4c] disabled screen locking
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Wed, 27 Jan 2021 18:28:49 +0100
+
 lernstick-usertemplate-exam (47) lernstick-10; urgency=medium
 
   * [1d7cd5] hide bpytop init screen
