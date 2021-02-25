@@ -1,3 +1,11 @@
+lernstick-usertemplate (129) lernstick-10; urgency=medium
+
+  * [8ea2fa] updated Debian compat level
+  * [8a0852] don't show doc boundaries in LibreOffice
+             (looks nicer and is also default in MS Office)
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Thu, 25 Feb 2021 16:58:45 +0100
+
 lernstick-usertemplate (128) lernstick-10; urgency=medium
 
   * [21a94e] moved bpytop config file to better place
