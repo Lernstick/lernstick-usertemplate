@@ -64,4 +64,9 @@
         <prop oor:name="Active" oor:op="fuse"><value>notebookbar.ui</value></prop>
     </item>
 
+    <!-- Don't show doc boundaries (looks better and is also default in MS Office) -->
+    <item oor:path="/org.openoffice.Office.UI/ColorScheme/ColorSchemes/org.openoffice.Office.UI:ColorScheme['LibreOffice']/DocBoundaries">
+        <prop oor:name="IsVisible" oor:op="fuse"><value>false</value></prop>
+    </item>
+
 </oor:items>
