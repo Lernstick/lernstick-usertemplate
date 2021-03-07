@@ -1,2 +1,2 @@
 [org/gnome/shell]
-favorite-apps=['firefox-esr.desktop', 'org.gnome.Nautilus.desktop', 'libreoffice-startcenter.desktop', 'yelp.desktop']
+favorite-apps=['firefox-esr.desktop', 'org.gnome.Nautilus.desktop', 'libreoffice-startcenter.desktop', 'lernstick-read-clipboard.desktop', 'yelp.desktop']
