@@ -1,3 +1,9 @@
+lernstick-usertemplate (131) lernstick-11; urgency=medium
+
+  * [c07509] don't show mounts and trash in dash-to-dock
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Mon, 12 Apr 2021 11:45:10 +0200
+
 lernstick-usertemplate (130) lernstick-10; urgency=medium
 
   * [5cd218] added lernstick-read-clipboard to GNOME favorites
