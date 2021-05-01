@@ -1,3 +1,10 @@
+lernstick-usertemplate (132) lernstick-11; urgency=medium
+
+  * [1c7927] use normal window border in KDE Plasma
+             (the default of invisible borders is just unusable)
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Sat, 01 May 2021 18:31:43 +0200
+
 lernstick-usertemplate (131) lernstick-11; urgency=medium
 
   * [c07509] don't show mounts and trash in dash-to-dock
