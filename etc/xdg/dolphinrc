@@ -1,28 +1,28 @@
+[CompactMode]
+FontWeight=50
+
+[DetailsMode]
+FontWeight=50
+
 [General]
-GlobalViewProps=true
+Version=200
+ViewPropsTimestamp=2021,5,1,21,50,43
+
+[IconsMode]
+FontWeight=50
 
 [MainWindow]
-State=AAAA/wAAAAD9AAAAAwAAAAAAAACqAAACkPwCAAAAAvsAAAAWAGYAbwBsAGQAZQByAHMARABvAGMAawAAAAAA/////wAAABwBAAAF+wAAABQAcABsAGEAYwBlAHMARABvAGMAawEAAAA1AAACkAAAAFgBAAAFAAAAAQAAALYAAAKQ/AIAAAAB+wAAABAAaQBuAGYAbwBEAG8AYwBrAQAAADUAAAKQAAABEQEAAAUAAAADAAAAAAAAAAD8AQAAAAH7AAAAGAB0AGUAcgBtAGkAbgBhAGwARABvAGMAawAAAAAA/////wAAAE0BAAAFAAAD8AAAApAAAAAEAAAABAAAAAgAAAAI/AAAAAEAAAACAAAAAgAAABYAbQBhAGkAbgBUAG8AbwBsAEIAYQByAQAAAAD/////AAAAAAAAAAAAAAAaAHMAZQBhAHIAYwBoAFQAbwBvAGwAQgBhAHIAAAACfP////8AAAAAAAAAAA==
-Height 600=601
-Height 768=769
-Height 800=801
-Height 864=865
-Height 900=901
-Height 1024=1025
-Height 1050=1051
-Height 1200=1201
-Width 800=801
-Width 1024=1025
-Width 1152=1153
-Width 1280=1281
-Width 1360=1361
-Width 1366=1367
-Width 1400=1401
-Width 1440=1441
-Width 1600=1601
-Width 1680=1681
-Width 1920=1921
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAwAAAAAAAADOAAACT/wCAAAAAvsAAAAWAGYAbwBsAGQAZQByAHMARABvAGMAawAAAAAA/////wAAAAoBAAAD+wAAABQAcABsAGEAYwBlAHMARABvAGMAawEAAAAmAAACTwAAAF0BAAADAAAAAQAAALYAAAJP/AIAAAAB+wAAABAAaQBuAGYAbwBEAG8AYwBrAQAAACYAAAJPAAABDwEAAAMAAAADAAAAAAAAAAD8AQAAAAH7AAAAGAB0AGUAcgBtAGkAbgBhAGwARABvAGMAawAAAAAA/////wAAAAoBAAADAAACNwAAAk8AAAAEAAAABAAAAAgAAAAI/AAAAAEAAAACAAAAAQAAABYAbQBhAGkAbgBUAG8AbwBsAEIAYQByAQAAAAD/////AAAAAAAAAAA=
+ToolBarsMovable=Disabled
+Virtual1 Height 968=629
+Virtual1 Width 1920=957
+Virtual1 XPosition=343
+Virtual1 YPosition=153
 
 [PreviewSettings]
-Plugins=windowsexethumbnail,imagethumbnail,pentobi-thumbnail,comicbookthumbnail,cursorthumbnail,desktopthumbnail,djvuthumbnail,exrthumbnail,geogebrathumbnail,htmlthumbnail,jpegthumbnail,krita_kra_thumbnail,westleypreview,windowsimagethumbnail,krita_ora_thumbnail,directorythumbnail,palathumbcreator,gsthumbnail,rawthumbnail,svgthumbnail,fontthumbnail,textthumbnail,ffmpegthumbs,webarchivethumbnail
+Plugins=audiothumbnail,windowsexethumbnail,imagethumbnail,blenderthumbnail,pentobi-thumbnail,comicbookthumbnail,djvuthumbnail,ebookthumbnail,exrthumbnail,jpegthumbnail,kraorathumbnail,windowsimagethumbnail,opendocumentthumbnail,directorythumbnail,palathumbcreator,gsthumbnail,rawthumbnail,fontthumbnail,svgthumbnail,textthumbnail,ffmpegthumbs,webarchivethumbnail
 
+[SettingsDialog]
+Virtual1 Height 968=462
+Virtual1 Width 1920=726
