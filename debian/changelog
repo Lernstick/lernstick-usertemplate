@@ -1,3 +1,9 @@
+lernstick-usertemplate (134) lernstick-11; urgency=medium
+
+  * [760a65] updated KDE Plasma config for Debian 11 (again)
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Sat, 01 May 2021 22:39:00 +0200
+
 lernstick-usertemplate (133) lernstick-11; urgency=medium
 
   * [8a3970] updated KDE Plasma config for Debian 11
