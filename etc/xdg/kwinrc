@@ -4,3 +4,6 @@ Rows=2
 
 [Compositing]
 Enabled=false
+
+[org.kde.kdecoration2]
+BorderSizeAuto=false
