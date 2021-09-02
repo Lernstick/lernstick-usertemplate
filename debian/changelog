@@ -1,3 +1,9 @@
+lernstick-usertemplate (135) lernstick-11; urgency=medium
+
+  * [09d564] don't show mounted devices on desktop (they are already shown in the dock)
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Thu, 02 Sep 2021 22:50:52 +0200
+
 lernstick-usertemplate (134) lernstick-11; urgency=medium
 
   * [760a65] updated KDE Plasma config for Debian 11 (again)
