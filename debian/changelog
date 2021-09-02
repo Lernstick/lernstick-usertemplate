@@ -1,3 +1,13 @@
+lernstick-usertemplate-exam (52) lernstick-11; urgency=medium
+
+  * [c07509] don't show mounts and trash in dash-to-dock
+  * [1c7927] use normal window border in KDE Plasma (the default of invisible borders is just unusable)
+  * [8a3970] updated KDE Plasma config for Debian 11
+  * [760a65] updated KDE Plasma config for Debian 11 (again)
+  * [09d564] don't show mounted devices on desktop (they are already shown in the dock)
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Fri, 03 Sep 2021 00:29:54 +0200
+
 lernstick-usertemplate-exam (51) lernstick-10; urgency=medium
 
   * [5cd218] added lernstick-read-clipboard to GNOME favorites
