@@ -1,0 +1,3 @@
+[org/gnome/shell/extensions/unblank]
+power=false
+time=0
