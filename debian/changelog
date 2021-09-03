@@ -1,3 +1,10 @@
+lernstick-usertemplate-exam (53) lernstick-11; urgency=medium
+
+  * [a93827] enable GNOME unblank extension by default
+             (only needed in exam version for vm detection screen lock!)
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Fri, 03 Sep 2021 16:29:45 +0200
+
 lernstick-usertemplate-exam (52) lernstick-11; urgency=medium
 
   * [c07509] don't show mounts and trash in dash-to-dock
