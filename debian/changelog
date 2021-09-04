@@ -1,3 +1,10 @@
+lernstick-usertemplate-exam (54) lernstick-11; urgency=medium
+
+  * [aaf376] enable GNOME unlock dialog background extension by default
+             (only needed in exam version for vm detection screen lock!)
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Sat, 04 Sep 2021 13:33:12 +0200
+
 lernstick-usertemplate-exam (53) lernstick-11; urgency=medium
 
   * [a93827] enable GNOME unblank extension by default
