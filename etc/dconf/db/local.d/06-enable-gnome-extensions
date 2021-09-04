@@ -1,2 +1,2 @@
 [org/gnome/shell]
-enabled-extensions=['dash-to-dock@micxgx.gmail.com', 'desktop-icons@csoriano', 'GPaste@gnome-shell-extensions.gnome.org', 'places-menu@gnome-shell-extensions.gcampax.github.com', 'sound-output-device-chooser@kgshank.net', 'TopIcons@phocean.net', 'unblank@sun.wxg@gmail.com']
+enabled-extensions=['dash-to-dock@micxgx.gmail.com', 'desktop-icons@csoriano', 'GPaste@gnome-shell-extensions.gnome.org', 'places-menu@gnome-shell-extensions.gcampax.github.com', 'sound-output-device-chooser@kgshank.net', 'TopIcons@phocean.net', 'unblank@sun.wxg@gmail.com', 'unlockDialogBackground@sun.wxg@gmail.com']
