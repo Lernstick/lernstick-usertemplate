@@ -1,6 +1,7 @@
 [Default Applications]
 application/rdf+xml=firefox.desktop
 application/rss+xml=firefox.desktop
+application/vnd.debian.binary-package=gdebi.desktop;
 application/vnd.mozilla.xul+xml=firefox.desktop
 application/xhtml+xml=firefox.desktop
 application/x-java-archive=execute-jar.desktop
@@ -12,11 +13,11 @@ text/html=firefox.desktop
 text/xml=firefox.desktop
 x-scheme-handler/http=firefox.desktop
 x-scheme-handler/https=firefox.desktop
-application/vnd.debian.binary-package=gdebi.desktop;
 
 [Added Associations]
 application/rdf+xml=firefox.desktop;
 application/rss+xml=firefox.desktop;
+application/vnd.debian.binary-package=gdebi.desktop;org.kde.ark.desktop;
 application/vnd.mozilla.xul+xml=firefox.desktop;
 application/xhtml+xml=firefox.desktop;
 application/x-java-archive=execute-jar.desktop;
@@ -28,8 +29,7 @@ text/html=firefox.desktop;
 text/xml=firefox.desktop;
 x-scheme-handler/http=firefox.desktop;
 x-scheme-handler/https=firefox.desktop;
-application/vnd.debian.binary-package=gdebi.desktop;org.kde.ark.desktop;
 
 [Removed Associations]
-audio/midi=smplayer.desktop;
 application/vnd.debian.binary-package=gnome-software-local-file.desktop;
+audio/midi=smplayer.desktop;
