@@ -1,3 +1,11 @@
+lernstick-usertemplate (136) lernstick-11; urgency=medium
+
+  * [39e8d5] sorted etc/xdg/mimeapps.list
+  * [ca6f88] added MuseScore to etc/xdg/mimeapps.list
+             (flatpak version of MuseScore doesn't seem to register itself properly)
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Sun, 05 Dec 2021 15:14:19 +0100
+
 lernstick-usertemplate (135) lernstick-11; urgency=medium
 
   * [09d564] don't show mounted devices on desktop (they are already shown in the dock)
