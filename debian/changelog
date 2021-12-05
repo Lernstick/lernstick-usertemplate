@@ -1,3 +1,11 @@
+lernstick-usertemplate-exam (56) lernstick-11; urgency=medium
+
+  * [39e8d5] sorted etc/xdg/mimeapps.list
+  * [ca6f88] added MuseScore to etc/xdg/mimeapps.list
+             (flatpak version of MuseScore doesn't seem to register itself properly)
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Sun, 05 Dec 2021 15:18:59 +0100
+
 lernstick-usertemplate-exam (55) lernstick-11; urgency=medium
 
   * [71442c] don't switch unlock dialog background by default
