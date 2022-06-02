@@ -1,3 +1,9 @@
+lernstick-usertemplate (137) lernstick-11; urgency=medium
+
+  * [030843] updated customized LibreOffice settings for v7.3
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Thu, 02 Jun 2022 18:14:41 +0200
+
 lernstick-usertemplate (136) lernstick-11; urgency=medium
 
   * [39e8d5] sorted etc/xdg/mimeapps.list
