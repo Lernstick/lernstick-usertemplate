@@ -1,3 +1,9 @@
+lernstick-usertemplate-exam (58) lernstick-11; urgency=medium
+
+  * [f06a4e] re-added recovery settings (not visible in LO UI, seems to be a bug...)
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Fri, 03 Jun 2022 03:01:08 +0200
+
 lernstick-usertemplate-exam (57) lernstick-11; urgency=medium
 
   * [030843] updated customized LibreOffice settings for v7.3
