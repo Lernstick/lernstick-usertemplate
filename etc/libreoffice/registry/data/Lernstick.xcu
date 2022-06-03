@@ -28,6 +28,9 @@
     </item>
 
     <!-- Options -> Load/Save -> General -> Save -> Save AutoRecovery information every minute -->
+    <item oor:path="/org.openoffice.Office.Recovery/AutoSave">
+        <prop oor:name="TimeIntervall" oor:op="fuse"><value>1</value></prop>
+    </item>
     <item oor:path="/org.openoffice.Office.Common/Save/Document">
         <prop oor:name="AutoSave" oor:op="fuse"><value>true</value></prop>
     </item>
