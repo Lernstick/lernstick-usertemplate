@@ -1,3 +1,9 @@
+lernstick-usertemplate (140) lernstick-12; urgency=medium
+
+  * [28c31e] removed /etc/xdg/arkrc (also in package ark)
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Tue, 01 Aug 2023 01:50:02 +0200
+
 lernstick-usertemplate (139) lernstick-11; urgency=medium
 
   * [eff0b5] updated contact information
