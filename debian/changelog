@@ -1,3 +1,9 @@
+lernstick-usertemplate (141) lernstick-12; urgency=medium
+
+  * [6be7b0] displace /etc/xdg/kickoffrc
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Tue, 01 Aug 2023 02:19:24 +0200
+
 lernstick-usertemplate (140) lernstick-12; urgency=medium
 
   * [28c31e] removed /etc/xdg/arkrc (also in package ark)
