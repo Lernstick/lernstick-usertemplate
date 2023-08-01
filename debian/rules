@@ -1,7 +1,7 @@
 #!/usr/bin/make -f
 
 %:
-	dh ${@}
+	dh ${@} --with=config-package
 
 # This package is buggy and ships files in /usr/local, disable dh_usrlocal
 override_dh_usrlocal:
