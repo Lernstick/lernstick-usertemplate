@@ -2,3 +2,4 @@
 intellihide-mode='ALL_WINDOWS'
 show-mounts=false
 show-trash=false
+transparency-mode='DYNAMIC'
