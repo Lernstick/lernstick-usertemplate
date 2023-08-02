@@ -1,3 +1,11 @@
+lernstick-usertemplate-exam (60) lernstick-12; urgency=medium
+
+  * [28c31e] removed /etc/xdg/arkrc (also in package ark)
+  * [6be7b0] displace /etc/xdg/kickoffrc
+  * [c29244] set transparency mode for GNOME extension dash-to-dock
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Wed, 02 Aug 2023 17:50:35 +0200
+
 lernstick-usertemplate-exam (59) lernstick-11; urgency=medium
 
   * [eff0b5] updated contact information
