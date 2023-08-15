@@ -6,4 +6,5 @@ debian/lernstick-usertemplate/
 debian/lernstick-usertemplate.debhelper.log
 debian/lernstick-usertemplate.postinst.debhelper
 debian/lernstick-usertemplate.postrm.debhelper
+debian/lernstick-usertemplate.prerm.debhelper
 debian/lernstick-usertemplate.substvars
