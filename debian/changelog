@@ -1,3 +1,11 @@
+lernstick-usertemplate (144) lernstick-12; urgency=medium
+
+  * [778542] updatd .gitignore
+  * [4ba0c9] added config for unblank extension
+  * [edd1c1] updated list of enabled GNOME extensions
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Tue, 15 Aug 2023 21:56:32 +0200
+
 lernstick-usertemplate (143) lernstick-12; urgency=medium
 
   * [c69434] use local LanguageTool server in LibreOffice
