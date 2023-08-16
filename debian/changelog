@@ -1,3 +1,9 @@
+lernstick-usertemplate (145) lernstick-12; urgency=medium
+
+  * [4318f7] install firefox-translations-addon per default
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Wed, 16 Aug 2023 10:06:05 +0200
+
 lernstick-usertemplate (144) lernstick-12; urgency=medium
 
   * [778542] updatd .gitignore
