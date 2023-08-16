@@ -1,0 +1,10 @@
+{
+  "policies": {
+    "ExtensionSettings": {
+      "firefox-translations-addon@mozilla.org": {
+        "installation_mode": "force_installed",
+        "install_url": "file:////usr/lib/mozilla/extensions/firefox-translations-addon@mozilla.org.xpi"
+      }
+    }
+  }
+}
