@@ -1,3 +1,14 @@
+lernstick-usertemplate-exam (61) UNRELEASED; urgency=medium
+
+  * [c69434] use local LanguageTool server in LibreOffice
+  * [778542] updatd .gitignore
+  * [4ba0c9] added config for unblank extension
+  * [edd1c1] updated list of enabled GNOME extensions
+  * [4318f7] install firefox-translations-addon per default
+  * [3ac535] disable overview on GNOME startup
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Mon, 21 Aug 2023 12:45:39 +0200
+
 lernstick-usertemplate-exam (60) lernstick-12; urgency=medium
 
   * [28c31e] removed /etc/xdg/arkrc (also in package ark)
