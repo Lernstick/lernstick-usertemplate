@@ -1,4 +1,4 @@
-lernstick-usertemplate-exam (61) UNRELEASED; urgency=medium
+lernstick-usertemplate-exam (61) lernstick-12; urgency=medium
 
   * [c69434] use local LanguageTool server in LibreOffice
   * [778542] updatd .gitignore
