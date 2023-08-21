@@ -1,3 +1,9 @@
+lernstick-usertemplate (146) lernstick-12; urgency=medium
+
+  * [3ac535] disable overview on GNOME startup
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Mon, 21 Aug 2023 12:27:07 +0200
+
 lernstick-usertemplate (145) lernstick-12; urgency=medium
 
   * [4318f7] install firefox-translations-addon per default
