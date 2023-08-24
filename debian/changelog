@@ -1,3 +1,9 @@
+lernstick-usertemplate (147) lernstick-12; urgency=medium
+
+  * [7293cb] moved firefox policy to package lernstick-firefox-addons
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Thu, 24 Aug 2023 16:13:08 +0200
+
 lernstick-usertemplate (146) lernstick-12; urgency=medium
 
   * [3ac535] disable overview on GNOME startup
