@@ -8,7 +8,7 @@ Homepage: http://www.lernstick.ch
 
 Package: lernstick-usertemplate
 Architecture: all
-Depends: ${shlibs:Depends}, ${misc:Depends}, dconf-cli, firefox-translations-addon
+Depends: ${shlibs:Depends}, ${misc:Depends}, dconf-cli
 Description: A template for the lernstick user
  A set of (mostly configuration) files under /etc/skel that are used when
  creating the lernstick user for the first time and some other files in /usr
