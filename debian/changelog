@@ -1,3 +1,9 @@
+lernstick-usertemplate (148) lernstick-12; urgency=medium
+
+  * [532b48] use cinnamon-screensaver for screen locking in Xfce
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Wed, 20 Sep 2023 10:16:13 +0200
+
 lernstick-usertemplate (147) lernstick-12; urgency=medium
 
   * [7293cb] moved firefox policy to package lernstick-firefox-addons
