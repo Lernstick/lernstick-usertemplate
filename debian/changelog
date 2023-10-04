@@ -1,3 +1,9 @@
+lernstick-usertemplate (149) lernstick-12; urgency=medium
+
+  * [b39e8a] updated Blender preferences
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Thu, 05 Oct 2023 00:47:01 +0200
+
 lernstick-usertemplate (148) lernstick-12; urgency=medium
 
   * [532b48] use cinnamon-screensaver for screen locking in Xfce
