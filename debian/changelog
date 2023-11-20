@@ -1,3 +1,9 @@
+lernstick-usertemplate-exam (64) lernstick-12; urgency=medium
+
+  * [1d107b] added polkitd-pkla to dependencies
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Mon, 20 Nov 2023 07:11:37 +0100
+
 lernstick-usertemplate-exam (63) lernstick-12; urgency=medium
 
   * [11dfac] fixed permissions for polkit-pkla
