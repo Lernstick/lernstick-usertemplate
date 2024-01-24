@@ -1,3 +1,9 @@
+lernstick-usertemplate (150) lernstick-12; urgency=medium
+
+  * [542d8f] added workaround for https://bugzilla.mozilla.org/show_bug.cgi?id=1285711
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Wed, 24 Jan 2024 17:31:41 +0100
+
 lernstick-usertemplate (149) lernstick-12; urgency=medium
 
   * [b39e8a] updated Blender preferences
