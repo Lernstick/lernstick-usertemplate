@@ -1,3 +1,10 @@
+lernstick-usertemplate (151) lernstick-12; urgency=medium
+
+  * [e0991f] increased ooSetupLastVersion in LibreOffice settings to prevent
+             version popup with recent LibreOffice backports
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Thu, 25 Jan 2024 19:15:58 +0100
+
 lernstick-usertemplate (150) lernstick-12; urgency=medium
 
   * [542d8f] added workaround for https://bugzilla.mozilla.org/show_bug.cgi?id=1285711
