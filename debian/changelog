@@ -1,4 +1,4 @@
-lernstick-usertemplate-exam (65) UNRELEASED; urgency=medium
+lernstick-usertemplate-exam (65) lernstick-12; urgency=medium
 
   * [532b48] use cinnamon-screensaver for screen locking in Xfce
   * [b39e8a] updated Blender preferences
