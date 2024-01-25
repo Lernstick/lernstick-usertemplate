@@ -13,7 +13,7 @@
         <prop oor:name="FirstRun" oor:op="fuse"><value>false</value></prop>
     </item>
     <item oor:path="/org.openoffice.Setup/Product">
-        <prop oor:name="ooSetupLastVersion" oor:op="fuse"><value>10</value></prop>
+        <prop oor:name="ooSetupLastVersion" oor:op="fuse"><value>100</value></prop>
     </item>
 
     <!-- Options -> LibreOffice -> Paths -> Temporary files:
