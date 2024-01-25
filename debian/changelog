@@ -1,3 +1,13 @@
+lernstick-usertemplate-exam (65) UNRELEASED; urgency=medium
+
+  * [532b48] use cinnamon-screensaver for screen locking in Xfce
+  * [b39e8a] updated Blender preferences
+  * [542d8f] added workaround for https://bugzilla.mozilla.org/show_bug.cgi?id=1285711
+  * [e0991f] increased ooSetupLastVersion in LibreOffice settings to prevent
+             version popup with recent LibreOffice backports
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Thu, 25 Jan 2024 19:19:40 +0100
+
 lernstick-usertemplate-exam (64) lernstick-12; urgency=medium
 
   * [1d107b] added polkitd-pkla to dependencies
