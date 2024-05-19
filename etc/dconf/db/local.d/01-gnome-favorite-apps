@@ -1,2 +1,2 @@
 [org/gnome/shell]
-favorite-apps=['firefox-esr.desktop', 'org.gnome.Nautilus.desktop', 'thunderbird.desktop', 'element-desktop.desktop', 'signal-desktop.desktop', 'jitsi-meet-electron.desktop', 'libreoffice-startcenter.desktop', 'gimp.desktop', 'gbrainy.desktop', 'lernstick-read-clipboard.desktop', 'yelp.desktop']
+favorite-apps=['firefox-esr.desktop', 'org.gnome.Nautilus.desktop', 'thunderbird.desktop', 'im.riot.Riot.desktop', 'org.signal.Signal.desktop', 'jitsi-meet-electron.desktop', 'libreoffice-startcenter.desktop', 'gimp.desktop', 'gbrainy.desktop', 'lernstick-read-clipboard.desktop', 'yelp.desktop']
