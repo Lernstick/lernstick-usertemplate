@@ -1,3 +1,9 @@
+lernstick-usertemplate (153) lernstick-12; urgency=medium
+
+  * [aba4e2] added open-webui to GNOME favorites
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Mon, 29 Jul 2024 19:58:04 +0200
+
 lernstick-usertemplate (152) lernstick-12; urgency=medium
 
   * [30fbd1] use flatpak version of element and signal in GNOME favorites
