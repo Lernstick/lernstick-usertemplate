@@ -1,0 +1,6 @@
+polkit.addRule(function(action, subject) {
+    if (action.id == "ch.lernstick.lshw-gtk")
+    {
+        return polkit.Result.AUTH_SELF;
+    }
+});

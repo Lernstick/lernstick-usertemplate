@@ -1,0 +1,7 @@
+polkit.addRule(function(action, subject) {
+    if (action.id == "org.gnome.controlcenter.datetime.configure" &&
+        subject.user == "user")
+    {
+        return polkit.Result.AUTH_SELF_KEEP;
+    }
+});

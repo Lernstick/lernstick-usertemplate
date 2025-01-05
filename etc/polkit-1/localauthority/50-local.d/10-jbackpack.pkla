@@ -1,6 +1,0 @@
-[allow user to run JBackpack with self authentication]
-Identity=unix-user:user
-Action=ch.fhnw.jbackpack
-ResultAny=yes
-ResultInactive=yes
-ResultActive=yes

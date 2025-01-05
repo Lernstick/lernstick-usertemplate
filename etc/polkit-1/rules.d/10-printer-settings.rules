@@ -1,0 +1,9 @@
+polkit.addRule(function(action, subject) {
+    if ((action.id.startsWith("org.opensuse.cupspkhelper.mechanism.") ||
+         action.id == "com.hp.hp-setup" ||
+         action.id == "com.hp.hplip.installplugin") &&
+        subject.user == "user")
+    {
+        return polkit.Result.YES;
+    }
+});
