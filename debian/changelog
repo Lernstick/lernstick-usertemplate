@@ -1,3 +1,10 @@
+lernstick-usertemplate (155) lernstick-12; urgency=medium
+
+  * [c7b7f9] moved libreoffice customization file
+             from /etc/libreoffice/ to /usr/lib/libreoffice/share
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Sat, 22 Mar 2025 19:03:17 +0100
+
 lernstick-usertemplate (154) lernstick-12; urgency=medium
 
   * [2a2be0] show weekday in top panel
