@@ -1,3 +1,11 @@
+lernstick-usertemplate-exam (66) lernstick-12; urgency=medium
+
+  * [2a2be0] show weekday in top panel
+  * [481e67] locate pointer via ctrl key
+  * [c7b7f9] moved libreoffice customization file from /etc/libreoffice/ to /usr/lib/libreoffice/share
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Sun, 23 Mar 2025 16:25:24 +0100
+
 lernstick-usertemplate-exam (65) lernstick-12; urgency=medium
 
   * [532b48] use cinnamon-screensaver for screen locking in Xfce
