@@ -1,7 +1,0 @@
-polkit.addRule(function(action, subject) {
-    if (action.id == "org.debian.pkexec.gnome-system-log.run" &&
-        subject.user == "user")
-    {
-        return polkit.Result.YES;
-    }
-});
