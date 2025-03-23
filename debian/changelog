@@ -1,3 +1,9 @@
+lernstick-usertemplate-exam (67) lernstick-12; urgency=medium
+
+  * [e6dea1] removed LanguageTool settings from LibreOffice registry file
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Sun, 23 Mar 2025 17:50:24 +0100
+
 lernstick-usertemplate-exam (66) lernstick-12; urgency=medium
 
   * [2a2be0] show weekday in top panel
