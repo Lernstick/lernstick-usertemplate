@@ -1,3 +1,9 @@
+lernstick-usertemplate (156) lernstick-12; urgency=medium
+
+  * [e6dea1] removed LanguageTool settings from LibreOffice registry file
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Sun, 23 Mar 2025 17:46:09 +0100
+
 lernstick-usertemplate (155) lernstick-12; urgency=medium
 
   * [c7b7f9] moved libreoffice customization file
