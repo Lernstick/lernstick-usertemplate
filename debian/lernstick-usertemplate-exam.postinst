@@ -21,6 +21,11 @@ set -e
 case "$1" in
     configure)
         dconf update
+
+	# this is needed in Debian 12 because polkit-pkla runs helper scripts
+	# as the unprivileged polkitd system user
+	chown root:polkitd /etc/polkit-1/localauthority
+	chmod 750 /etc/polkit-1/localauthority
     ;;
 
     abort-upgrade|abort-remove|abort-deconfigure)
