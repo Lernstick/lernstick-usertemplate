@@ -1,2 +1,4 @@
 [org/gnome/desktop/interface]
-locate-pointer=true
+# temporarily disabled, as it breaks copy, cut and paste in Firefox Translations
+# locate-pointer=true
+locate-pointer=false
