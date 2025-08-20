@@ -1,3 +1,9 @@
+lernstick-usertemplate (159) lernstick-13; urgency=medium
+
+  * [8eb33a] updated GNOME extensions for Debian 13 (appindicator & workspace-indicator)
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Wed, 20 Aug 2025 16:48:29 +0200
+
 lernstick-usertemplate (158) lernstick-12; urgency=medium
 
   * [ae474c] added LocalTranslate to GNOME favorite apps
