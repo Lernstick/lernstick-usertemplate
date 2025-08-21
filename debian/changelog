@@ -1,3 +1,9 @@
+lernstick-usertemplate (160) lernstick-13; urgency=medium
+
+  * [2f5018] updated KDE Plasma config
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Thu, 21 Aug 2025 11:55:25 +0200
+
 lernstick-usertemplate (159) lernstick-13; urgency=medium
 
   * [8eb33a] updated GNOME extensions for Debian 13 (appindicator & workspace-indicator)
