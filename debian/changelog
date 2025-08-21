@@ -1,3 +1,9 @@
+lernstick-usertemplate (161) lernstick-13; urgency=medium
+
+  * [592316] set Lernstick background for Cinnamon & MATE
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Thu, 21 Aug 2025 12:44:31 +0200
+
 lernstick-usertemplate (160) lernstick-13; urgency=medium
 
   * [2f5018] updated KDE Plasma config
