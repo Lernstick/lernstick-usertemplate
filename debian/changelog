@@ -1,3 +1,9 @@
+lernstick-usertemplate (163) lernstick-13; urgency=medium
+
+  * [1fe0a1] enabled gjsosk extension
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Fri, 26 Sep 2025 16:36:08 +0200
+
 lernstick-usertemplate (162) lernstick-13; urgency=medium
 
   * [8d22a0] updated KDE Plasma config
