@@ -1,0 +1,6 @@
+[org/mate/desktop/background]
+color-shading-type='solid'
+picture-filename='/usr/share/backgrounds/lernstick/simple.jpg'
+picture-options='zoom'
+primary-color='rgb(255,255,255)'
+secondary-color='rgb(0,0,0)'

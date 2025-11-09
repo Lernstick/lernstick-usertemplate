@@ -1,5 +1,4 @@
 [ActionPlugins][0]
-MidButton;NoModifier=org.kde.paste
 RightButton;NoModifier=org.kde.contextmenu
 wheel:Vertical;NoModifier=org.kde.switchdesktop
 
@@ -7,7 +6,10 @@ wheel:Vertical;NoModifier=org.kde.switchdesktop
 RightButton;NoModifier=org.kde.contextmenu
 
 [Containments][17]
+ItemGeometries-1910x2021=
+ItemGeometries-1910x2031=
 ItemGeometriesHorizontal=
+ItemGeometriesVertical=
 activityId=bccecaf0-c1d1-4751-a337-648f75b5fc97
 formfactor=0
 immutability=1
@@ -17,8 +19,8 @@ plugin=org.kde.plasma.folder
 wallpaperplugin=org.kde.image
 
 [Containments][17][ConfigDialog]
-DialogHeight=540
-DialogWidth=720
+DialogHeight=956
+DialogWidth=1258
 
 [Containments][17][Configuration]
 PreloadWeight=42
@@ -26,10 +28,13 @@ PreloadWeight=42
 [Containments][17][General]
 ToolBoxButtonState=topright
 ToolBoxButtonX=1200
+positions={"1910x2021":["1","17"],"1910x2031":["1","17"]}
 sortMode=-1
 
 [Containments][17][Wallpaper][org.kde.image][General]
-Image=file:///usr/share/desktop-base/homeworld-theme/wallpaper/contents/images/1920x1080.svg
+Image=/usr/share/wallpapers/Lernstick/
+PreviewImage=/usr/share/wallpapers/Lernstick/
+SlidePaths=/usr/share/wallpapers/
 height=1472
 width=1272
 
@@ -49,19 +54,14 @@ plugin=org.kde.plasma.minimizeall
 [Containments][2][Applets][18][Configuration]
 PreloadWeight=42
 
-[Containments][2][Applets][21]
-immutability=1
-plugin=org.kde.plasma.systemloadviewer
-
-[Containments][2][Applets][21][Configuration]
-PreloadWeight=42
-
 [Containments][2][Applets][3]
 immutability=1
 plugin=org.kde.plasma.kickoff
 
 [Containments][2][Applets][3][Configuration]
-PreloadWeight=92
+PreloadWeight=97
+popupHeight=512
+popupWidth=681
 
 [Containments][2][Applets][3][Configuration][General]
 favorites=/usr/share/applications/firefox-esr.desktop,/usr/share/applications/thunderbird.desktop,/usr/share/applications/kde4/dolphin.desktop,/usr/share/applications/libreoffice-startcenter.desktop,/usr/share/applications/gimp.desktop,/usr/share/applications/inkscape.desktop,/usr/share/applications/kde4/digikam.desktop,/usr/share/applications/kde4/amarok.desktop,/usr/share/applications/audacity.desktop,/usr/share/applications/openshot.desktop,/usr/share/applications/ekiga.desktop,/usr/share/applications/gbrainy.desktop
@@ -72,7 +72,7 @@ systemApplications=systemsettings.desktop,org.kde.kinfocenter.desktop
 global=Alt+F1
 
 [Containments][2][Applets][3][Shortcuts]
-global=Alt+F1
+global=
 
 [Containments][2][Applets][4]
 immutability=1
@@ -107,8 +107,9 @@ plugin=org.kde.plasma.digitalclock
 PreloadWeight=42
 
 [Containments][2][Applets][8][Configuration][Appearance]
+fontWeight=400
 showDate=true
-showSeconds=true
+showSeconds=2
 
 [Containments][2][Applets][8][Configuration][ConfigDialog]
 DialogHeight=540
@@ -122,7 +123,7 @@ DialogWidth=1272
 PreloadWeight=42
 
 [Containments][2][General]
-AppletOrder=3;18;4;5;21;6;8
+AppletOrder=3;18;4;5;6;8
 
 [Containments][7]
 activityId=
@@ -161,6 +162,9 @@ plugin=org.kde.plasma.volume
 [Containments][7][Applets][13][Configuration]
 PreloadWeight=42
 
+[Containments][7][Applets][13][Configuration][General]
+migrated=true
+
 [Containments][7][Applets][14]
 immutability=1
 plugin=org.kde.plasma.clipboard
@@ -188,17 +192,37 @@ plugin=org.kde.plasma.mediacontroller
 
 [Containments][7][Applets][22]
 immutability=1
-plugin=org.kde.plasma.nightcolorcontrol
+plugin=org.kde.kscreen
 
 [Containments][7][Applets][22][Configuration]
 PreloadWeight=42
 
 [Containments][7][Applets][23]
 immutability=1
-plugin=org.kde.plasma.keyboardindicator
+plugin=org.kde.plasma.cameraindicator
 
 [Containments][7][Applets][23][Configuration]
 PreloadWeight=42
+
+[Containments][7][Applets][24]
+immutability=1
+plugin=org.kde.plasma.keyboardlayout
+
+[Containments][7][Applets][25]
+immutability=1
+plugin=org.kde.plasma.manage-inputmethod
+
+[Containments][7][Applets][26]
+immutability=1
+plugin=org.kde.plasma.vault
+
+[Containments][7][Applets][30]
+immutability=1
+plugin=org.kde.plasma.brightness
+
+[Containments][7][Applets][54]
+immutability=1
+plugin=org.kde.plasma.keyboardindicator
 
 [Containments][7][Applets][9]
 immutability=1
@@ -211,8 +235,9 @@ PreloadWeight=42
 PreloadWeight=42
 
 [Containments][7][General]
-extraItems=org.kde.kdeconnect,org.kde.plasma.battery,org.kde.plasma.bluetooth,org.kde.plasma.clipboard,org.kde.plasma.devicenotifier,org.kde.plasma.mediacontroller,org.kde.plasma.networkmanagement,org.kde.plasma.notifications,org.kde.plasma.printmanager,org.kde.plasma.volume,org.kde.kupapplet,org.kde.plasma.keyboardindicator,org.kde.plasma.nightcolorcontrol
-knownItems=org.kde.kdeconnect,org.kde.plasma.battery,org.kde.plasma.bluetooth,org.kde.plasma.clipboard,org.kde.plasma.devicenotifier,org.kde.plasma.mediacontroller,org.kde.plasma.networkmanagement,org.kde.plasma.notifications,org.kde.plasma.printmanager,org.kde.plasma.volume,org.kde.kupapplet,org.kde.plasma.keyboardindicator,org.kde.plasma.nightcolorcontrol
+extraItems=org.kde.kdeconnect,org.kde.plasma.battery,org.kde.plasma.bluetooth,org.kde.plasma.clipboard,org.kde.plasma.devicenotifier,org.kde.plasma.mediacontroller,org.kde.plasma.networkmanagement,org.kde.plasma.notifications,org.kde.plasma.printmanager,org.kde.plasma.volume,org.kde.kupapplet,org.kde.plasma.keyboardindicator,org.kde.kscreen,org.kde.plasma.brightness,org.kde.plasma.cameraindicator,org.kde.plasma.keyboardlayout,org.kde.plasma.manage-inputmethod,org.kde.plasma.vault
+knownItems=org.kde.kdeconnect,org.kde.plasma.battery,org.kde.plasma.bluetooth,org.kde.plasma.clipboard,org.kde.plasma.devicenotifier,org.kde.plasma.mediacontroller,org.kde.plasma.networkmanagement,org.kde.plasma.notifications,org.kde.plasma.printmanager,org.kde.plasma.volume,org.kde.kupapplet,org.kde.plasma.keyboardindicator,org.kde.kscreen,org.kde.plasma.brightness,org.kde.plasma.cameraindicator,org.kde.plasma.keyboardlayout,org.kde.plasma.manage-inputmethod,org.kde.plasma.vault
 
 [ScreenMapping]
 itemsOnDisabledScreens=
+screenMapping=
