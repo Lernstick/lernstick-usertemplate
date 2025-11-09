@@ -1,0 +1,7 @@
+polkit.addRule(function(action, subject) {
+	if ((action.id.indexOf(org.opensuse.cupspkhelper.mechanism.) == 0) ||
+	    (action.id == com.hp.hp-setup) ||
+	    (action.id == com.hp.hplip.installplugin)) {
+		return polkit.Result.AUTH_SELF_KEEP;
+	}
+})

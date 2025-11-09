@@ -1,6 +1,0 @@
-[allow user to configure the date and time settings]
-Identity=unix-user:user
-Action=org.gnome.controlcenter.datetime.configure
-ResultAny=auth_self_keep
-ResultInactive=auth_self_keep
-ResultActive=auth_self_keep
