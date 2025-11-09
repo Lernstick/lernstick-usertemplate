@@ -1,3 +1,9 @@
+lernstick-usertemplate (165) lernstick-13; urgency=medium
+
+  * [a94287] add user to sudo group
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Mon, 10 Nov 2025 00:38:51 +0100
+
 lernstick-usertemplate (164) lernstick-13; urgency=medium
 
   * [c686fb] mute gjs-osk
