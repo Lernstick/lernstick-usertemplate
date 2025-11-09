@@ -1,3 +1,16 @@
+lernstick-usertemplate-exam (69) lernstick-13; urgency=medium
+
+  * [ae474c] added LocalTranslate to GNOME favorite apps
+  * [8eb33a] updated GNOME extensions for Debian 13 (appindicator & workspace-indicator)
+  * [2f5018] updated KDE Plasma config
+  * [592316] set Lernstick background for Cinnamon & MATE
+  * [8d22a0] updated KDE Plasma config
+  * [1fe0a1] enabled gjsosk extension
+  * [c686fb] mute gjs-osk
+  * [7e396e] moved from polkitd-pkla to modern polkit rules
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Sun, 09 Nov 2025 22:55:12 +0100
+
 lernstick-usertemplate-exam (68) lernstick-12; urgency=medium
 
   * [be3385] temporarily disabled locating of mouse pointer, breaks Firefox Translations
