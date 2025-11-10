@@ -1,3 +1,9 @@
+lernstick-usertemplate-exam (71) lernstick-13; urgency=medium
+
+  * [c0965e] enabled tiling-assistant
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Mon, 10 Nov 2025 21:18:50 +0100
+
 lernstick-usertemplate-exam (70) lernstick-13; urgency=medium
 
   * [3176f2] removed pkla workaround for Debian 12
