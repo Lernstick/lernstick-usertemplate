@@ -1,3 +1,9 @@
+lernstick-usertemplate (166) lernstick-13; urgency=medium
+
+  * [c0965e] enabled tiling-assistant
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Mon, 10 Nov 2025 21:15:05 +0100
+
 lernstick-usertemplate (165) lernstick-13; urgency=medium
 
   * [a94287] add user to sudo group
