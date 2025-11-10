@@ -1,2 +1,2 @@
 [org/gnome/shell]
-enabled-extensions=['dash-to-dock@micxgx.gmail.com', 'ding@rastersoft.com', 'GPaste@gnome-shell-extensions.gnome.org', 'places-menu@gnome-shell-extensions.gcampax.github.com', 'ubuntu-appindicators@ubuntu.com', 'workspace-indicator@gnome-shell-extensions.gcampax.github.com', 'gjsosk@vishram1123.com']
+enabled-extensions=['dash-to-dock@micxgx.gmail.com', 'ding@rastersoft.com', 'GPaste@gnome-shell-extensions.gnome.org', 'places-menu@gnome-shell-extensions.gcampax.github.com', 'ubuntu-appindicators@ubuntu.com', 'workspace-indicator@gnome-shell-extensions.gcampax.github.com', 'gjsosk@vishram1123.com', 'tiling-assistant@leleat-on-github']
