@@ -1,3 +1,9 @@
+lernstick-usertemplate (167) lernstick-13; urgency=medium
+
+  * [66c644] enabled draw-on-gnome
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Tue, 11 Nov 2025 08:51:44 +0100
+
 lernstick-usertemplate (166) lernstick-13; urgency=medium
 
   * [c0965e] enabled tiling-assistant
