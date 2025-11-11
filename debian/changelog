@@ -1,3 +1,9 @@
+lernstick-usertemplate-exam (72) lernstick-13; urgency=medium
+
+  * [869d09] fixed syntax error in rules with indexOf
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Tue, 11 Nov 2025 10:34:43 +0100
+
 lernstick-usertemplate-exam (71) lernstick-13; urgency=medium
 
   * [c0965e] enabled tiling-assistant
