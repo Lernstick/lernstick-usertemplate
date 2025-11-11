@@ -1,3 +1,9 @@
+lernstick-usertemplate-exam (73) lernstick-13; urgency=medium
+
+  * [3f84fe] fixed syntax in polkit rules
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Tue, 11 Nov 2025 13:34:07 +0100
+
 lernstick-usertemplate-exam (72) lernstick-13; urgency=medium
 
   * [869d09] fixed syntax error in rules with indexOf
