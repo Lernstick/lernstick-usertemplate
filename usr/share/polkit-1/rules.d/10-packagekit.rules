@@ -1,5 +1,5 @@
 polkit.addRule(function(action, subject) {
-	if (action.id.indexOf(org.freedesktop.packagekit.) == 0) {
+	if (action.id.indexOf("org.freedesktop.packagekit.") == 0) {
 		return polkit.Result.YES;
 	}
 })
