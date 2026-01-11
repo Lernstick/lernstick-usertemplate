@@ -1,3 +1,9 @@
+lernstick-usertemplate-exam (74) lernstick-13; urgency=medium
+
+  * [971579] renamed polkit rules for Debian 13
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Sun, 11 Jan 2026 19:26:26 +0100
+
 lernstick-usertemplate-exam (73) lernstick-13; urgency=medium
 
   * [3f84fe] fixed syntax in polkit rules
