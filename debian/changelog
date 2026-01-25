@@ -1,3 +1,10 @@
+lernstick-usertemplate (168) lernstick-13; urgency=medium
+
+  * [715f6f] use fileroller for .7z files because the default (nautilus)
+             doesn't support encryption
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Sun, 25 Jan 2026 18:53:44 +0100
+
 lernstick-usertemplate (167) lernstick-13; urgency=medium
 
   * [66c644] enabled draw-on-gnome
