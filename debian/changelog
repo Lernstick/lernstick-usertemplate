@@ -1,9 +1,11 @@
-lernstick-usertemplate-exam (74) lernstick-13; urgency=medium
+lernstick-usertemplate-exam (75) lernstick-13; urgency=medium
 
   * [715f6f] use fileroller for .7z files because the default (nautilus)
              doesn't support encryption
 
  -- Ronny Standtke <ronny.standtke@gmx.net>  Sun, 25 Jan 2026 18:53:44 +0100
+
+lernstick-usertemplate-exam (74) lernstick-13; urgency=medium
 
   * [971579] renamed polkit rules for Debian 13
 
