@@ -1,3 +1,9 @@
+lernstick-usertemplate (170) lernstick-13; urgency=medium
+
+  * [97ac35] displace 40-libinput.conf
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Tue, 14 Apr 2026 23:11:46 +0200
+
 lernstick-usertemplate (169) lernstick-13; urgency=medium
 
   [ Jörg Berkel ]
