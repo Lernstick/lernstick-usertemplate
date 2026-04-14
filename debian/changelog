@@ -1,3 +1,9 @@
+lernstick-usertemplate-exam (76) lernstick-13; urgency=medium
+
+  * [ae66fe] removed deprecated custom xfce4 screensaver config
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Tue, 14 Apr 2026 22:01:22 +0200
+
 lernstick-usertemplate-exam (75) lernstick-13; urgency=medium
 
   * [715f6f] use fileroller for .7z files because the default (nautilus)
