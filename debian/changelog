@@ -1,3 +1,9 @@
+lernstick-usertemplate (171) lernstick-13; urgency=medium
+
+  * [fa44a9] fixed helper scripts
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Tue, 14 Apr 2026 23:24:43 +0200
+
 lernstick-usertemplate (170) lernstick-13; urgency=medium
 
   * [97ac35] displace 40-libinput.conf
