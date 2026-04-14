@@ -1,3 +1,17 @@
+lernstick-usertemplate-exam (77) lernstick-13; urgency=medium
+
+  [ Jörg Berkel ]
+  * [eae57f] use lernstick background for xfce and lxde
+  * [d67649] enable MiddleEmulation for touchpads to disable accidental pasting/middle-button-clicks
+
+  [ Ronny Standtke ]
+  * [8fb170] removed deprecated custom xfce4 screensaver config
+  * [97ac35] displace 40-libinput.conf
+  * [fa44a9] fixed helper scripts
+  * [77de09] renamed xorg config file
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Tue, 14 Apr 2026 23:40:27 +0200
+
 lernstick-usertemplate-exam (76) lernstick-13; urgency=medium
 
   * [ae66fe] removed deprecated custom xfce4 screensaver config
