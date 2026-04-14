@@ -1,3 +1,9 @@
+lernstick-usertemplate (173) lernstick-13; urgency=medium
+
+  * [77de09] renamed xorg config file
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Tue, 14 Apr 2026 23:33:49 +0200
+
 lernstick-usertemplate (171) lernstick-13; urgency=medium
 
   * [fa44a9] fixed helper scripts
