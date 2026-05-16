@@ -1,3 +1,9 @@
+lernstick-usertemplate (174) lernstick-13; urgency=medium
+
+  * [f58212] use evince as default PDF reader in Xfce
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Sat, 16 May 2026 18:39:01 +0200
+
 lernstick-usertemplate (173) lernstick-13; urgency=medium
 
   * [77de09] renamed xorg config file
