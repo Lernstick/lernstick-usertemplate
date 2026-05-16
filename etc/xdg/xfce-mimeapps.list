@@ -1,13 +1,15 @@
 [Default Applications]
-image/png=ristretto.desktop
+application/pdf=org.gnome.Evince.desktop
+application/vnd.debian.binary-package=gdebi.desktop
 image/gif=ristretto.desktop
 image/jpeg=ristretto.desktop
+image/png=ristretto.desktop
 text/plain=mousepad.desktop
-application/vnd.debian.binary-package=gdebi.desktop
 
 [Added Associations]
-image/png=ristretto.desktop;
-image/gif=ristretto.desktop;
-image/jpeg=ristretto.desktop;
-text/plain=mousepad.desktop;
-application/vnd.debian.binary-package=gdebi.desktop;
+application/pdf=org.gnome.Evince.desktop
+application/vnd.debian.binary-package=gdebi.desktop
+image/gif=ristretto.desktop
+image/jpeg=ristretto.desktop
+image/png=ristretto.desktop
+text/plain=mousepad.desktop
