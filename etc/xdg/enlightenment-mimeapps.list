@@ -1,0 +1,3 @@
+[Default Applications]
+application/vnd.oasis.opendocument.text=libreoffice-writer.desktop
+application/pdf=org.gnome.Evince.desktop
