@@ -1,3 +1,9 @@
+lernstick-usertemplate (175) lernstick-13; urgency=medium
+
+  * [c7e8c3] added MIME config for Enlightenment
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Sat, 16 May 2026 19:03:16 +0200
+
 lernstick-usertemplate (174) lernstick-13; urgency=medium
 
   * [f58212] use evince as default PDF reader in Xfce
